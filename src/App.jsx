@@ -1731,8 +1731,56 @@ const PHOTOGRAPHERS = {
         },
       ],
     },
-    { id: "seoul-6", number: "#6", name: "Eo.ways", instagram: "", packages: [] },
-{
+    {
+      id: "seoul-6", number: "#6", name: "Eo.ways", instagram: "@eo.ways",
+      packages: [
+        {
+          name: "Package A",
+          subtitle: "Eo.ways (4-5 hr) & K Salon",
+          partners: {
+            photographer: { name: "Eo.ways", instagram: "@eo.ways" },
+            hmu: { name: "K Salon", instagram: "@k__salon" },
+            dress: { name: "K Salon", instagram: "@ksalon_seoul" },
+            suit: { name: "K Salon", instagram: "@ksalon_seoul" },
+            bouquet: { name: "TBD", instagram: "" },
+          },
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          shootingTime: "4-5 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 40,
+          retouchedDetail: "Precise Retouching: 40 (Customer Selected)",
+          priceSNS: 2185, priceNoSNS: null,
+          addons: [],
+        },
+        {
+          name: "Package B",
+          subtitle: "Eo.ways (3 hr) Snap",
+          partners: {
+            photographer: { name: "Eo.ways", instagram: "@eo.ways" },
+          },
+          inclusiveItems: ["Photography Session"],
+          shootingTime: "3 hours", locations: "2 sites", originalPhotos: "200+", retouched: 30,
+          retouchedDetail: "Precise Retouching: 30 (Customer Selected)",
+          priceSNS: 330, priceNoSNS: null,
+          addons: [
+            { name: "Hair & Makeup for Bride and Groom", price: 210, desc: "K Salon (Instagram: @k__salon)." },
+          ],
+        },
+        {
+          name: "Package C",
+          subtitle: "Eo.ways (2 hr) Snap",
+          partners: {
+            photographer: { name: "Eo.ways", instagram: "@eo.ways" },
+          },
+          inclusiveItems: ["Photography Session (Up to 1 Outfit)"],
+          shootingTime: "2 hours", locations: "1 site", originalPhotos: "100+", retouched: 15,
+          retouchedDetail: "Precise Retouching: 15 (Customer Selected)",
+          priceSNS: 240, priceNoSNS: null,
+          addons: [
+            { name: "Hair & Makeup for Bride and Groom", price: 210, desc: "K Salon (Instagram: @k__salon)." },
+          ],
+        },
+      ],
+    },
+    {
       id: "seoul-7", number: "#7", name: "Kiss and Smoking", instagram: "@kiss_and.smoking",
       packages: [
         {
@@ -1834,6 +1882,16 @@ function InstagramLink({ handle }) {
         </span>
       ))}
     </span>
+  );
+}
+
+function RenderDesc({ text }) {
+  if (!text) return null;
+  const parts = text.split(/(@[\w._]+)/g);
+  return parts.map((part, i) =>
+    part.startsWith("@") ? (
+      <a key={i} href={`https://instagram.com/${part.replace("@", "")}`} target="_blank" rel="noopener noreferrer" style={{ color: "#8B7355", textDecoration: "none", borderBottom: "1px solid #D4C5B0" }}>{part}</a>
+    ) : <span key={i}>{part}</span>
   );
 }
 
@@ -2183,7 +2241,7 @@ function PackageDetail({ photographer, parentName, onBack, backLabel }) {
               </button>
               {expandedAddon === i && (
                 <div style={{ padding: "0 16px 12px", fontSize: "13px", color: "#555", lineHeight: "1.6", background: "#FAFAF8" }}>
-                  {addon.desc}
+                  <RenderDesc text={addon.desc} />
                 </div>
               )}
             </div>
