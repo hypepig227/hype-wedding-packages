@@ -1780,7 +1780,7 @@ const PHOTOGRAPHERS = {
         },
       ],
     },
-{
+    {
       id: "seoul-7", number: "#7", name: "Kiss and Smoking", instagram: "@kiss_and.smoking",
       packages: [
         {
