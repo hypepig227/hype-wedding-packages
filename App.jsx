@@ -29,16 +29,16 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "800+",
               retouched: 40,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) + Color Correction: 15",
+              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
               priceSNS: 2690,
               priceNoSNS: 2830,
               addons: [
                 { name: "4K Cinematic Drone Shooting", price: 87, desc: "Weather permitting, 20-30 sec video. Note: Ocean areas are often restricted for drone flights; most shoots will be conducted in open fields." },
                 { name: "4K Videography (Drone included)", price: null, desc: "Agree to SNS Upload: USD 299 / Decline: USD 426. Includes 2-3 min 4K pre-wedding video + 30-40 sec Full HD vertical video. Original video footage: USD 43." },
-                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched images. Additional interpreter and transportation fees apply for time extension. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
-                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images." },
+                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched photos. Additional interpreter and transportation fees apply for time extension. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
+                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos." },
                 { name: "Express Retouching Service", price: 85, desc: "10 retouched photos for invitation card. Completed within 7-10 days from photo selection date." },
-                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 images." },
+                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 photos." },
               ],
             },
             {
@@ -56,16 +56,16 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "800+",
               retouched: 40,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) + Color Correction: 15",
+              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
               priceSNS: 2700,
               priceNoSNS: 2835,
               addons: [
                 { name: "4K Cinematic Drone Shooting", price: 87, desc: "Weather permitting, 20-30 sec video. Note: Ocean areas are often restricted for drone flights; most shoots will be conducted in open fields." },
                 { name: "4K Videography (Drone included)", price: null, desc: "Agree to SNS Upload: USD 299 / Decline: USD 426. Includes 2-3 min 4K pre-wedding video + 30-40 sec Full HD vertical video. Original video footage: USD 43." },
-                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched images. Additional interpreter and transportation fees apply for time extension. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
-                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images." },
+                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched photos. Additional interpreter and transportation fees apply for time extension. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
+                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos." },
                 { name: "Express Retouching Service", price: 85, desc: "10 retouched photos for invitation card. Completed within 7-10 days from photo selection date." },
-                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 images." },
+                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 photos." },
               ],
             },
             {
@@ -83,17 +83,17 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "800+",
               retouched: 40,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) + Color Correction: 15",
+              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
               priceSNS: 2835,
               priceNoSNS: 2975,
               addons: [
                 { name: "Opus Dress Upgrade (White/Black Label)", price: 217, desc: "Per dress. Basic Label: No extra charge. White/Black Label dresses can be paid on-site by credit card." },
                 { name: "4K Cinematic Drone Shooting", price: 87, desc: "Weather permitting, 20-30 sec video. Note: Ocean areas are often restricted for drone flights; most shoots will be conducted in open fields." },
                 { name: "4K Videography (Drone included)", price: null, desc: "Agree to SNS Upload: USD 299 / Decline: USD 426. Includes 2-3 min 4K pre-wedding video + 30-40 sec Full HD vertical video. Original video footage: USD 43." },
-                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched images. Additional interpreter and transportation fees apply for time extension. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
-                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images." },
+                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched photos. Additional interpreter and transportation fees apply for time extension. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
+                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos." },
                 { name: "Express Retouching Service", price: 85, desc: "10 retouched photos for invitation card. Completed within 7-10 days from photo selection date." },
-                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 images." },
+                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 photos." },
               ],
             },
           ],
@@ -119,15 +119,15 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "800+",
               retouched: 40,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) + Color Correction: 15",
+              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
               priceSNS: 2415,
               priceNoSNS: 2555,
               addons: [
                 { name: "4K Cinematic Drone Shooting", price: 87, desc: "Weather permitting, 20-30 sec video. Note: Ocean areas are often restricted for drone flights; most shoots will be conducted in open fields." },
-                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched images. Additional interpreter and transportation fees apply for time extension." },
-                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images." },
+                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched photos. Additional interpreter and transportation fees apply for time extension." },
+                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos." },
                 { name: "Express Retouching Service", price: 85, desc: "10 retouched photos for invitation card. Completed within 7-10 days from photo selection date." },
-                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 images." },
+                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 photos." },
               ],
             },
             {
@@ -145,15 +145,15 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "800+",
               retouched: 40,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) + Color Correction: 15",
+              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
               priceSNS: 2425,
               priceNoSNS: 2560,
               addons: [
                 { name: "4K Cinematic Drone Shooting", price: 87, desc: "Weather permitting, 20-30 sec video. Note: Ocean areas are often restricted for drone flights; most shoots will be conducted in open fields." },
-                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched images. Additional interpreter and transportation fees apply for time extension." },
-                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images." },
+                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched photos. Additional interpreter and transportation fees apply for time extension." },
+                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos." },
                 { name: "Express Retouching Service", price: 85, desc: "10 retouched photos for invitation card. Completed within 7-10 days from photo selection date." },
-                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 images." },
+                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 photos." },
               ],
             },
             {
@@ -171,16 +171,16 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "800+",
               retouched: 40,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) + Color Correction: 15",
+              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
               priceSNS: 2560,
               priceNoSNS: 2700,
               addons: [
                 { name: "Opus Dress Upgrade (White/Black Label)", price: 217, desc: "Per dress. Basic Label: No extra charge. White/Black Label dresses can be paid on-site by credit card." },
                 { name: "4K Cinematic Drone Shooting", price: 87, desc: "Weather permitting, 20-30 sec video. Note: Ocean areas are often restricted for drone flights; most shoots will be conducted in open fields." },
-                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched images. Additional interpreter and transportation fees apply for time extension." },
-                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images." },
+                { name: "Studio Photography Addition", price: 291, desc: "Includes Studio Rental, additional fee of stylist accompaniment. 2 hours of studio photography before outdoor shooting. Additional 5 retouched photos. Additional interpreter and transportation fees apply for time extension." },
+                { name: "Two(2) Photographer Option", price: 340, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos." },
                 { name: "Express Retouching Service", price: 85, desc: "10 retouched photos for invitation card. Completed within 7-10 days from photo selection date." },
-                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 images." },
+                { name: "Additional Retouching", price: 16, desc: "Per photo, up to 5 photos." },
               ],
             },
           ],
@@ -208,13 +208,13 @@ const PHOTOGRAPHERS = {
           locations: "4 sites",
           originalPhotos: "1,800+",
           retouched: 30,
-          retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+          retouchedDetail: "Customer Selected: 30",
           priceSNS: 2350,
           priceNoSNS: 2440,
           addons: [
             { name: "4K Videography (Drone included)", price: 426, desc: "Weather permitting. 2 min 4K pre-wedding video + 10 sec drone clip (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: Original video footage NOT provided." },
-            { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction images + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
-            { name: "Two(2) Photographer Option", price: 426, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images (Photographer Selected)." },
+            { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction photos + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
+            { name: "Two(2) Photographer Option", price: 426, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos (Photographer Selected)." },
             { name: "Studio Photography Add-on", price: null, desc: "2 hours of studio photography. Replaces one outdoor location. One outfit only (no outfit change). Additional guests: USD 5/person/hour. Option 1: Ledio Studio (up to 6 ppl) USD 95 (@ledio_studio). Option 2: Donghwaro5 Studio (up to 5 ppl) A-room USD 95 / B-room USD 95 / Entire USD 150 (@donghwaro5). Option 3: Inourdays Studio (up to 4 ppl) Day USD 95 / Night USD 75 / Entire USD 150 (@inourdays_studio)." },
             { name: "Additional Retouched Photo", price: 8, desc: "Per photo. Maximum 10 photos available." },
             { name: "Additional Companion Shooting", price: 17, desc: "Per photo. When adding 2 or more people." },
@@ -237,13 +237,13 @@ const PHOTOGRAPHERS = {
           locations: "4 sites",
           originalPhotos: "1,800+",
           retouched: 30,
-          retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+          retouchedDetail: "Customer Selected: 30",
           priceSNS: 2415,
           priceNoSNS: 2505,
           addons: [
             { name: "4K Videography (Drone included)", price: 426, desc: "Weather permitting. 2 min 4K pre-wedding video + 10 sec drone clip (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: Original video footage NOT provided." },
-            { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction images + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
-            { name: "Two(2) Photographer Option", price: 426, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images (Photographer Selected)." },
+            { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction photos + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
+            { name: "Two(2) Photographer Option", price: 426, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos (Photographer Selected)." },
             { name: "Studio Photography Add-on", price: null, desc: "2 hours of studio photography. Replaces one outdoor location. One outfit only (no outfit change). Additional guests: USD 5/person/hour. Option 1: Ledio Studio (up to 6 ppl) USD 95 (@ledio_studio). Option 2: Donghwaro5 Studio (up to 5 ppl) A-room USD 95 / B-room USD 95 / Entire USD 150 (@donghwaro5). Option 3: Inourdays Studio (up to 4 ppl) Day USD 95 / Night USD 75 / Entire USD 150 (@inourdays_studio)." },
             { name: "Additional Retouched Photo", price: 8, desc: "Per photo. Maximum 10 photos available." },
             { name: "Additional Companion Shooting", price: 17, desc: "Per photo. When adding 2 or more people." },
@@ -266,13 +266,13 @@ const PHOTOGRAPHERS = {
           locations: "4 sites",
           originalPhotos: "1,800+",
           retouched: 30,
-          retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+          retouchedDetail: "Customer Selected: 30",
           priceSNS: 2465,
           priceNoSNS: 2555,
           addons: [
             { name: "4K Videography (Drone included)", price: 426, desc: "Weather permitting. 2 min 4K pre-wedding video + 10 sec drone clip (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: Original video footage NOT provided." },
-            { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction images + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
-            { name: "Two(2) Photographer Option", price: 426, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched images (Photographer Selected)." },
+            { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction photos + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
+            { name: "Two(2) Photographer Option", price: 426, desc: "Two photographers working simultaneously for different perspectives. Additional 10 retouched photos (Photographer Selected)." },
             { name: "Studio Photography Add-on", price: null, desc: "2 hours of studio photography. Replaces one outdoor location. One outfit only (no outfit change). Additional guests: USD 5/person/hour. Option 1: Ledio Studio (up to 6 ppl) USD 95 (@ledio_studio). Option 2: Donghwaro5 Studio (up to 5 ppl) A-room USD 95 / B-room USD 95 / Entire USD 150 (@donghwaro5). Option 3: Inourdays Studio (up to 4 ppl) Day USD 95 / Night USD 75 / Entire USD 150 (@inourdays_studio)." },
             { name: "Additional Retouched Photo", price: 8, desc: "Per photo. Maximum 10 photos available." },
             { name: "Additional Companion Shooting", price: 17, desc: "Per photo. When adding 2 or more people." },
@@ -303,12 +303,12 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "1,500 - 2,500",
           retouched: 60,
-          retouchedDetail: "Detailed Retouched: 30 + Color Correction: 30 *Special Offer: All 60 photos in 3 color tones (Natural / Film / B&W)",
+          retouchedDetail: "Customer Selected: 30 + Color Correction: 30 \n+Special Offer: 3 color tones (Natural / Film / B&W)",
           priceSNS: 2285,
           priceNoSNS: 2375,
           addons: [
             { name: "4K Videography (Drone included)", price: 340, desc: "Approx. 3 min music video format (with BGM). Natural direction + emotional scene-focused. Cinematic & Candid feel. Drone shooting weather permitting." },
-            { name: "Two(2) Photographer Option", price: 128, desc: "Additional Photographer (@greemy_ellie). Two photographers working simultaneously for different perspectives. Additional 10 detailed retouched images." },
+            { name: "Two(2) Photographer Option", price: 128, desc: "Additional Photographer (@greemy_ellie). Two photographers working simultaneously for different perspectives. Additional 10 detailed retouched photos." },
             { name: "Studio Photography Addition", price: 255, desc: "Includes Studio Rental. Additional shooting time approx. 1.5 hours. Additional stylist accompaniment, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
             { name: "Additional Shooting Time and Location", price: 170, desc: "Add shooting time or an additional location. Additional stylist accompaniment fees apply for time extension." },
             { name: "Additional Retouching Service", price: null, desc: "Detailed retouching: USD 5 per photo. Color correction: USD 3 per photo." },
@@ -329,12 +329,12 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "1,500 - 2,500",
           retouched: 60,
-          retouchedDetail: "Detailed Retouched: 30 + Color Correction: 30 *Special Offer: All 60 photos in 3 color tones (Natural / Film / B&W)",
+          retouchedDetail: "Customer Selected: 30 + Color Correction: 30 \n+Special Offer: 3 color tones (Natural / Film / B&W)",
           priceSNS: 2415,
           priceNoSNS: 2505,
           addons: [
             { name: "4K Videography (Drone included)", price: 340, desc: "Approx. 3 min music video format (with BGM). Natural direction + emotional scene-focused. Cinematic & Candid feel. Drone shooting weather permitting." },
-            { name: "Two(2) Photographer Option", price: 128, desc: "Additional Photographer (@greemy_ellie). Two photographers working simultaneously for different perspectives. Additional 10 detailed retouched images." },
+            { name: "Two(2) Photographer Option", price: 128, desc: "Additional Photographer (@greemy_ellie). Two photographers working simultaneously for different perspectives. Additional 10 detailed retouched photos." },
             { name: "Studio Photography Addition", price: 255, desc: "Includes Studio Rental. Additional shooting time approx. 1.5 hours. Additional stylist accompaniment, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
             { name: "Additional Shooting Time and Location", price: 170, desc: "Add shooting time or an additional location. Additional stylist accompaniment fees apply for time extension." },
             { name: "Additional Retouching Service", price: null, desc: "Detailed retouching: USD 5 per photo. Color correction: USD 3 per photo." },
@@ -355,12 +355,12 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "1,500 - 2,500",
           retouched: 60,
-          retouchedDetail: "Detailed Retouched: 30 + Color Correction: 30 *Special Offer: All 60 photos in 3 color tones (Natural / Film / B&W)",
+          retouchedDetail: "Customer Selected: 30 + Color Correction: 30 \n+Special Offer: 3 color tones (Natural / Film / B&W)",
           priceSNS: 2430,
           priceNoSNS: 2520,
           addons: [
             { name: "4K Videography (Drone included)", price: 340, desc: "Approx. 3 min music video format (with BGM). Natural direction + emotional scene-focused. Cinematic & Candid feel. Drone shooting weather permitting." },
-            { name: "Two(2) Photographer Option", price: 128, desc: "Additional Photographer (@greemy_ellie). Two photographers working simultaneously for different perspectives. Additional 10 detailed retouched images." },
+            { name: "Two(2) Photographer Option", price: 128, desc: "Additional Photographer (@greemy_ellie). Two photographers working simultaneously for different perspectives. Additional 10 detailed retouched photos." },
             { name: "Studio Photography Addition", price: 255, desc: "Includes Studio Rental. Additional shooting time approx. 1.5 hours. Additional stylist accompaniment, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
             { name: "Additional Shooting Time and Location", price: 170, desc: "Add shooting time or an additional location. Additional stylist accompaniment fees apply for time extension." },
             { name: "Additional Retouching Service", price: null, desc: "Detailed retouching: USD 5 per photo. Color correction: USD 3 per photo." },
@@ -381,12 +381,12 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "1,500 - 2,500",
           retouched: 60,
-          retouchedDetail: "Detailed Retouched: 30 + Color Correction: 30 *Special Offer: All 60 photos in 3 color tones (Natural / Film / B&W)",
+          retouchedDetail: "Customer Selected: 30 + Color Correction: 30 \n+Special Offer: 3 color tones (Natural / Film / B&W)",
           priceSNS: 2465,
           priceNoSNS: 2555,
           addons: [
             { name: "4K Videography (Drone included)", price: 340, desc: "Approx. 3 min music video format (with BGM). Natural direction + emotional scene-focused. Cinematic & Candid feel. Drone shooting weather permitting." },
-            { name: "Two(2) Photographer Option", price: 128, desc: "Additional Photographer (@greemy_ellie). Two photographers working simultaneously for different perspectives. Additional 10 detailed retouched images." },
+            { name: "Two(2) Photographer Option", price: 128, desc: "Additional Photographer (@greemy_ellie). Two photographers working simultaneously for different perspectives. Additional 10 detailed retouched photos." },
             { name: "Studio Photography Addition", price: 255, desc: "Includes Studio Rental. Additional shooting time approx. 1.5 hours. Additional stylist accompaniment, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
             { name: "Additional Shooting Time and Location", price: 170, desc: "Add shooting time or an additional location. Additional stylist accompaniment fees apply for time extension." },
             { name: "Additional Retouching Service", price: null, desc: "Detailed retouching: USD 5 per photo. Color correction: USD 3 per photo." },
@@ -421,7 +421,7 @@ const PHOTOGRAPHERS = {
               locations: "3-4 sites",
               originalPhotos: "1,500+",
               retouched: 25,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) *Special Offer: All 25 photos in 2 color tones (Natural / B&W)",
+              retouchedDetail: "Customer Selected: 25 \n+Special Offer: 2 color tones (Natural / B&W)",
               priceSNS: 2375,
               priceNoSNS: null,
               addons: [
@@ -447,7 +447,7 @@ const PHOTOGRAPHERS = {
               locations: "3-4 sites",
               originalPhotos: "1,500+",
               retouched: 25,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) *Special Offer: All 25 photos in 2 color tones (Natural / B&W)",
+              retouchedDetail: "Customer Selected: 25 \n+Special Offer: 2 color tones (Natural / B&W)",
               priceSNS: 2520,
               priceNoSNS: null,
               addons: [
@@ -473,7 +473,7 @@ const PHOTOGRAPHERS = {
               locations: "3-4 sites",
               originalPhotos: "1,500+",
               retouched: 25,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) *Special Offer: All 25 photos in 2 color tones (Natural / B&W)",
+              retouchedDetail: "Customer Selected: 25 \n+Special Offer: 2 color tones (Natural / B&W)",
               priceSNS: 2555,
               priceNoSNS: null,
               addons: [
@@ -499,7 +499,7 @@ const PHOTOGRAPHERS = {
               locations: "3-4 sites",
               originalPhotos: "1,500+",
               retouched: 25,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) *Special Offer: All 25 photos in 2 color tones (Natural / B&W)",
+              retouchedDetail: "Customer Selected: 25 \n+Special Offer: 2 color tones (Natural / B&W)",
               priceSNS: 2650,
               priceNoSNS: null,
               addons: [
@@ -534,7 +534,7 @@ const PHOTOGRAPHERS = {
               locations: "3-4 sites",
               originalPhotos: "1,500+",
               retouched: 25,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) *Special Offer: All 25 photos in 2 color tones (Natural / B&W)",
+              retouchedDetail: "Customer Selected: 25 \n+Special Offer: 2 color tones (Natural / B&W)",
               priceSNS: 3095,
               priceNoSNS: null,
               addons: [
@@ -561,7 +561,7 @@ const PHOTOGRAPHERS = {
               locations: "3-4 sites",
               originalPhotos: "1,500+",
               retouched: 25,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) *Special Offer: All 25 photos in 2 color tones (Natural / B&W)",
+              retouchedDetail: "Customer Selected: 25 \n+Special Offer: 2 color tones (Natural / B&W)",
               priceSNS: 3235,
               priceNoSNS: null,
               addons: [
@@ -588,7 +588,7 @@ const PHOTOGRAPHERS = {
               locations: "3-4 sites",
               originalPhotos: "1,500+",
               retouched: 25,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) *Special Offer: All 25 photos in 2 color tones (Natural / B&W)",
+              retouchedDetail: "Customer Selected: 25 \n+Special Offer: 2 color tones (Natural / B&W)",
               priceSNS: 3270,
               priceNoSNS: null,
               addons: [
@@ -615,7 +615,7 @@ const PHOTOGRAPHERS = {
               locations: "3-4 sites",
               originalPhotos: "1,500+",
               retouched: 25,
-              retouchedDetail: "Detailed Retouched: 25 (Customer Selected) *Special Offer: All 25 photos in 2 color tones (Natural / B&W)",
+              retouchedDetail: "Customer Selected: 25 \n+Special Offer: 2 color tones (Natural / B&W)",
               priceSNS: 3370,
               priceNoSNS: null,
               addons: [
@@ -652,12 +652,12 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "2,000+",
           retouched: 20,
-          retouchedDetail: "Customer Selected: 20 images (Detailed Retouched + Color Correction)",
+          retouchedDetail: "Customer Selected: 20 (Retouched + Color Correction)",
           priceSNS: 2750,
           priceNoSNS: 2840,
           addons: [
             { name: "Pre-Wedding 4K Cinematic Drone Shooting", price: 170, desc: "Weather permitting. 1-2 min landscape video (Full HD or 4K). Logo positioned at bottom. Original drone footage: USD 47." },
-            { name: "Studio Photography Addition", price: 239, desc: "Studio Rental fee NOT included. 1 hr session before outdoor shooting. Additional 5 detailed retouched images. Additional stylist, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
+            { name: "Studio Photography Addition", price: 239, desc: "Studio Rental fee NOT included. 1 hr session before outdoor shooting. Additional 5 detailed retouched photos. Additional stylist, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
             { name: "Camping Concept Photography", price: 128, desc: "Setup using photographer's personal equipment. Approx. 15 min additional time (tent setup not possible). Can only proceed in forest. Weather permitting." },
             { name: "Express Retouching Service", price: null, desc: "Photos: USD 9/photo (min 1, max 20). Completed within 2 weeks from photo selection date. Drone Video: USD 41 (completed 1-2 weeks before wedding)." },
             { name: "Additional Retouched or Color Correction", price: null, desc: "Detailed Retouched: USD 9/photo (no limit, includes retouched + color correction). Color Correction only: USD 5/photo (min 5 photos, 5-7 days processing)." },
@@ -680,12 +680,12 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "2,000+",
           retouched: 20,
-          retouchedDetail: "Customer Selected: 20 images (Detailed Retouched + Color Correction)",
+          retouchedDetail: "Customer Selected: 20 (Retouched + Color Correction)",
           priceSNS: 2565,
           priceNoSNS: 2650,
           addons: [
             { name: "Pre-Wedding 4K Cinematic Drone Shooting", price: 170, desc: "Weather permitting. 1-2 min landscape video (Full HD or 4K). Logo positioned at bottom. Original drone footage: USD 47." },
-            { name: "Studio Photography Addition", price: 239, desc: "Studio Rental fee NOT included. 1 hr session before outdoor shooting. Additional 5 detailed retouched images. Additional stylist, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
+            { name: "Studio Photography Addition", price: 239, desc: "Studio Rental fee NOT included. 1 hr session before outdoor shooting. Additional 5 detailed retouched photos. Additional stylist, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
             { name: "Camping Concept Photography", price: 128, desc: "Setup using photographer's personal equipment. Approx. 15 min additional time (tent setup not possible). Can only proceed in forest. Weather permitting." },
             { name: "Express Retouching Service", price: null, desc: "Photos: USD 9/photo (min 1, max 20). Completed within 2 weeks from photo selection date. Drone Video: USD 41 (completed 1-2 weeks before wedding)." },
             { name: "Additional Retouched or Color Correction", price: null, desc: "Detailed Retouched: USD 9/photo (no limit, includes retouched + color correction). Color Correction only: USD 5/photo (min 5 photos, 5-7 days processing)." },
@@ -708,13 +708,13 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "2,000+",
           retouched: 20,
-          retouchedDetail: "Customer Selected: 20 images (Detailed Retouched + Color Correction)",
+          retouchedDetail: "Customer Selected: 20 (Retouched + Color Correction)",
           priceSNS: 2705,
           priceNoSNS: 2795,
           addons: [
             { name: "Dress Line Upgrade", price: null, desc: "Additional charges apply depending on the dress line at Nervi." },
             { name: "Pre-Wedding 4K Cinematic Drone Shooting", price: 170, desc: "Weather permitting. 1-2 min landscape video (Full HD or 4K). Logo positioned at bottom. Original drone footage: USD 47." },
-            { name: "Studio Photography Addition", price: 239, desc: "Studio Rental fee NOT included. 1 hr session before outdoor shooting. Additional 5 detailed retouched images. Additional stylist, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
+            { name: "Studio Photography Addition", price: 239, desc: "Studio Rental fee NOT included. 1 hr session before outdoor shooting. Additional 5 detailed retouched photos. Additional stylist, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
             { name: "Camping Concept Photography", price: 128, desc: "Setup using photographer's personal equipment. Approx. 15 min additional time (tent setup not possible). Can only proceed in forest. Weather permitting." },
             { name: "Express Retouching Service", price: null, desc: "Photos: USD 9/photo (min 1, max 20). Completed within 2 weeks from photo selection date. Drone Video: USD 41 (completed 1-2 weeks before wedding)." },
             { name: "Additional Retouched or Color Correction", price: null, desc: "Detailed Retouched: USD 9/photo (no limit, includes retouched + color correction). Color Correction only: USD 5/photo (min 5 photos, 5-7 days processing)." },
@@ -745,7 +745,7 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "4,000+",
           retouched: 30,
-          retouchedDetail: "Client-Selected: 25 + Photographer-Selected: 5",
+          retouchedDetail: "Customer Selected: 25 + Photographer Selected: 5",
           priceSNS: 2355,
           priceNoSNS: 2445,
           addons: [
@@ -771,7 +771,7 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "4,000+",
           retouched: 30,
-          retouchedDetail: "Client-Selected: 25 + Photographer-Selected: 5",
+          retouchedDetail: "Customer Selected: 25 + Photographer Selected: 5",
           priceSNS: 2430,
           priceNoSNS: 2520,
           addons: [
@@ -797,7 +797,7 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "4,000+",
           retouched: 30,
-          retouchedDetail: "Client-Selected: 25 + Photographer-Selected: 5",
+          retouchedDetail: "Customer Selected: 25 + Photographer Selected: 5",
           priceSNS: 2530,
           priceNoSNS: 2615,
           addons: [
@@ -823,7 +823,7 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "4,000+",
           retouched: 30,
-          retouchedDetail: "Client-Selected: 25 + Photographer-Selected: 5",
+          retouchedDetail: "Customer Selected: 25 + Photographer Selected: 5",
           priceSNS: 2645,
           priceNoSNS: 2735,
           addons: [
@@ -1106,7 +1106,7 @@ const PHOTOGRAPHERS = {
           locations: "3 sites",
           originalPhotos: "1,500+",
           retouched: 25,
-          retouchedDetail: "Outdoor: 20 (Customer Selected) + Studio: 5 (Customer Selected)",
+          retouchedDetail: "Outdoor: 20 + Studio: 5 (Customer Selected)",
           priceSNS: 2490,
           priceNoSNS: 2580,
           addons: [
@@ -1144,12 +1144,12 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "900",
               retouched: 30,
-              retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 30",
               priceSNS: 2735,
               priceNoSNS: 2910,
               addons: [
                 { name: "Additional Retouched Photo", price: 85, desc: "Maximum 10 photos available." },
-                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 images. Detailed retouched: 10 images." },
+                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 photos. Detailed retouched: 10 photos." },
                 { name: "Videography (Spinoff)", price: 510, desc: "Videographer: @__spin.off. Weather permitting. 4K cinematic video approx. 2 min + highlight video approx. 30 sec (landscape or portrait). Delivered within 12 weeks. Optional: Original footage USD 86 / Portrait SNS highlight USD 43." },
                 { name: "Premium Leather Album", price: 128, desc: "20 Pages. Size: 14x11 inch Album + Album Box. Production: approx. 3 weeks. Shipped directly to customer. All shipping costs are the customer's responsibility." },
               ],
@@ -1169,12 +1169,12 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "900",
               retouched: 30,
-              retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 30",
               priceSNS: 2805,
               priceNoSNS: 2985,
               addons: [
                 { name: "Additional Retouched Photo", price: 85, desc: "Maximum 10 photos available." },
-                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 images. Detailed retouched: 10 images." },
+                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 photos. Detailed retouched: 10 photos." },
                 { name: "Videography (Spinoff)", price: 510, desc: "Videographer: @__spin.off. Weather permitting. 4K cinematic video approx. 2 min + highlight video approx. 30 sec (landscape or portrait). Delivered within 12 weeks. Optional: Original footage USD 86 / Portrait SNS highlight USD 43." },
                 { name: "Premium Leather Album", price: 128, desc: "20 Pages. Size: 14x11 inch Album + Album Box. Production: approx. 3 weeks. Shipped directly to customer. All shipping costs are the customer's responsibility." },
               ],
@@ -1194,13 +1194,13 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "900",
               retouched: 30,
-              retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 30",
               priceSNS: 2830,
               priceNoSNS: 3010,
               addons: [
                 { name: "Opus Dress Upgrade (White/Black Label)", price: 217, desc: "Per dress. Basic Label: No extra charge. White/Black Label dresses can be paid on-site by credit card." },
                 { name: "Additional Retouched Photo", price: 85, desc: "Maximum 10 photos available." },
-                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 images. Detailed retouched: 10 images." },
+                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 photos. Detailed retouched: 10 photos." },
                 { name: "Videography (Spinoff)", price: 510, desc: "Videographer: @__spin.off. Weather permitting. 4K cinematic video approx. 2 min + highlight video approx. 30 sec (landscape or portrait). Delivered within 12 weeks. Optional: Original footage USD 86 / Portrait SNS highlight USD 43." },
                 { name: "Premium Leather Album", price: 128, desc: "20 Pages. Size: 14x11 inch Album + Album Box. Production: approx. 3 weeks. Shipped directly to customer. All shipping costs are the customer's responsibility." },
               ],
@@ -1228,12 +1228,12 @@ const PHOTOGRAPHERS = {
               locations: "4 sites",
               originalPhotos: "900",
               retouched: 30,
-              retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 30",
               priceSNS: 2500,
               priceNoSNS: 2690,
               addons: [
                 { name: "Additional Retouched Photo", price: 85, desc: "Maximum 10 photos available." },
-                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 images. Detailed retouched: 10 images." },
+                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 photos. Detailed retouched: 10 photos." },
                 { name: "Videography (Spinoff)", price: 510, desc: "Videographer: @__spin.off. Weather permitting. 4K cinematic video approx. 2 min + highlight video approx. 30 sec (landscape or portrait). Delivered within 12 weeks. Optional: Original footage USD 86 / Portrait SNS highlight USD 43." },
                 { name: "Premium Leather Album", price: 128, desc: "20 Pages. Size: 14x11 inch Album + Album Box. Production: approx. 3 weeks. Shipped directly to customer. All shipping costs are the customer's responsibility." },
               ],
@@ -1253,12 +1253,12 @@ const PHOTOGRAPHERS = {
               locations: "4 sites",
               originalPhotos: "900",
               retouched: 30,
-              retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 30",
               priceSNS: 2580,
               priceNoSNS: 2760,
               addons: [
                 { name: "Additional Retouched Photo", price: 85, desc: "Maximum 10 photos available." },
-                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 images. Detailed retouched: 10 images." },
+                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 photos. Detailed retouched: 10 photos." },
                 { name: "Videography (Spinoff)", price: 510, desc: "Videographer: @__spin.off. Weather permitting. 4K cinematic video approx. 2 min + highlight video approx. 30 sec (landscape or portrait). Delivered within 12 weeks. Optional: Original footage USD 86 / Portrait SNS highlight USD 43." },
                 { name: "Premium Leather Album", price: 128, desc: "20 Pages. Size: 14x11 inch Album + Album Box. Production: approx. 3 weeks. Shipped directly to customer. All shipping costs are the customer's responsibility." },
               ],
@@ -1278,13 +1278,13 @@ const PHOTOGRAPHERS = {
               locations: "4 sites",
               originalPhotos: "900",
               retouched: 30,
-              retouchedDetail: "Detailed Retouched: 30 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 30",
               priceSNS: 2605,
               priceNoSNS: 2785,
               addons: [
                 { name: "Opus Dress Upgrade (White/Black Label)", price: 217, desc: "Per dress. Basic Label: No extra charge. White/Black Label dresses can be paid on-site by credit card." },
                 { name: "Additional Retouched Photo", price: 85, desc: "Maximum 10 photos available." },
-                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 images. Detailed retouched: 10 images." },
+                { name: "Film-Like Edited Photos", price: 255, desc: "Reference: @yeongrami_filmlike. 1 additional sub-photographer. Original photos: 30 photos. Detailed retouched: 10 photos." },
                 { name: "Videography (Spinoff)", price: 510, desc: "Videographer: @__spin.off. Weather permitting. 4K cinematic video approx. 2 min + highlight video approx. 30 sec (landscape or portrait). Delivered within 12 weeks. Optional: Original footage USD 86 / Portrait SNS highlight USD 43." },
                 { name: "Premium Leather Album", price: 128, desc: "20 Pages. Size: 14x11 inch Album + Album Box. Production: approx. 3 weeks. Shipped directly to customer. All shipping costs are the customer's responsibility." },
               ],
@@ -1320,7 +1320,7 @@ const PHOTOGRAPHERS = {
               locations: "3 outdoor venues",
               originalPhotos: "2,500+ (All Raw JPG)",
               retouched: 35,
-              retouchedDetail: "Professionally Retouched: 35 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 35",
               priceSNS: 2585,
               priceNoSNS: null,
               addons: [
@@ -1342,7 +1342,7 @@ const PHOTOGRAPHERS = {
               locations: "3 outdoor venues",
               originalPhotos: "2,500+ (All Raw JPG)",
               retouched: 35,
-              retouchedDetail: "Professionally Retouched: 35 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 35",
               priceSNS: 2450,
               priceNoSNS: null,
               addons: [
@@ -1372,7 +1372,7 @@ const PHOTOGRAPHERS = {
               locations: "4 outdoor venues",
               originalPhotos: "2,500+ (All Raw JPG)",
               retouched: 35,
-              retouchedDetail: "Professionally Retouched: 35 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 35",
               priceSNS: 2780,
               priceNoSNS: null,
               addons: [
@@ -1394,7 +1394,7 @@ const PHOTOGRAPHERS = {
               locations: "4 outdoor venues",
               originalPhotos: "2,500+ (All Raw JPG)",
               retouched: 35,
-              retouchedDetail: "Professionally Retouched: 35 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 35",
               priceSNS: 2845,
               priceNoSNS: null,
               addons: [
@@ -1424,7 +1424,7 @@ const PHOTOGRAPHERS = {
               locations: "1 Studio + 3 Outdoor",
               originalPhotos: "2,500+ (All Raw JPG)",
               retouched: 35,
-              retouchedDetail: "Professionally Retouched: 35 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 35",
               priceSNS: 3125,
               priceNoSNS: null,
               addons: [
@@ -1446,7 +1446,7 @@ const PHOTOGRAPHERS = {
               locations: "1 Studio + 3 Outdoor",
               originalPhotos: "2,500+ (All Raw JPG)",
               retouched: 35,
-              retouchedDetail: "Professionally Retouched: 35 (Customer Selected)",
+              retouchedDetail: "Customer Selected: 35",
               priceSNS: 3340,
               priceNoSNS: null,
               addons: [
@@ -1474,10 +1474,10 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session (2 Photographers)","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Videography (2:30 behind-the-scenes video, Original + Final)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "1 Indoor Studio + 1 Outdoor Site (Noeul Park)", originalPhotos: "1,500+", retouched: 25,
-          retouchedDetail: "Precise Retouching: 25 (Customer Selected)",
-          priceSNS: 2570, priceNoSNS: 2670,
+          retouchedDetail: "Customer Selected: 25",
+          priceSNS: 2620, priceNoSNS: 2715,
           addons: [
-            { name: "Night Photography", price: 128, desc: "Location: Dongjak Bridge (Han River, Seoul). 1 hour additional. 5 additional retouched images. Additional stylist/interpreter/transport fees apply." },
+            { name: "Night Photography", price: 128, desc: "Location: Dongjak Bridge (Han River, Seoul). 1 hour additional. 5 additional retouched photos. Additional stylist/interpreter/transport fees apply." },
             { name: "Studio Photography Addition", price: null, desc: "Price varies by studio; booked after consultation." },
           ],
         },
@@ -1493,10 +1493,10 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session (2 Photographers)","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Videography (2:30 behind-the-scenes video, Original + Final)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "2 Outdoor Sites (Noeul Park + Eulwangri Beach)", originalPhotos: "1,500+", retouched: 25,
-          retouchedDetail: "Precise Retouching: 25 (Customer Selected)",
-          priceSNS: 2570, priceNoSNS: 2670,
+          retouchedDetail: "Customer Selected: 25",
+          priceSNS: 2620, priceNoSNS: 2715,
           addons: [
-            { name: "Night Photography with Fireworks", price: 128, desc: "1 hour additional. Fireworks provided by photographer. Weather permitting. 5 additional retouched images. Additional stylist/interpreter/transport fees apply." },
+            { name: "Night Photography with Fireworks", price: 128, desc: "1 hour additional. Fireworks provided by photographer. Weather permitting. 5 additional retouched photos. Additional stylist/interpreter/transport fees apply." },
           ],
         },
       ],
@@ -1517,7 +1517,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "1 Studio (2hrs) + 1-2 Outdoor", originalPhotos: "1,500+", retouched: 30,
           retouchedDetail: "Customer Selected: 23 + Photographer Selected: 7",
-          priceSNS: 2670, priceNoSNS: null,
+          priceSNS: 2715, priceNoSNS: 2805,
           addons: [
             { name: "4K Videography (Younangman)", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41 (30 sec). Original footage: USD 41 (20 min). Express Retouching: USD 124." },
             { name: "Studio Photography Addition", price: null, desc: "Studio rental fee charged separately. Studio list provided upon request. Additional stylist/interpreter/transport fees apply." },
@@ -1536,7 +1536,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "2-3 Outdoor locations", originalPhotos: "1,500+", retouched: 30,
           retouchedDetail: "Customer Selected: 23 + Photographer Selected: 7",
-          priceSNS: 2670, priceNoSNS: null,
+          priceSNS: 2715, priceNoSNS: 2805,
           addons: [
             { name: "4K Videography (Younangman)", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41 (30 sec). Original footage: USD 41 (20 min). Express Retouching: USD 124." },
             { name: "Studio Photography Addition", price: null, desc: "Studio rental fee charged separately. Studio list provided upon request. Additional stylist/interpreter/transport fees apply." },
@@ -1559,8 +1559,8 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","1 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "3 hours", locations: "2 sites", originalPhotos: "500+", retouched: 20,
-          retouchedDetail: "Precise Retouching: 20 (Customer Selected). Up to 2 outfits available.",
-          priceSNS: 2005, priceNoSNS: 2060,
+          retouchedDetail: "Customer Selected: 20. Up to 2 outfits.",
+          priceSNS: 2050, priceNoSNS: 2105,
           addons: [
             { name: "Additional 1-hour", price: 100, desc: "Additional stylist/interpreter/transport fees apply." },
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
@@ -1580,8 +1580,8 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 30,
-          retouchedDetail: "Precise Retouching: 30 (Customer Selected). Up to 3 outfits available.",
-          priceSNS: 2500, priceNoSNS: 2570,
+          retouchedDetail: "Customer Selected: 30. Up to 3 outfits.",
+          priceSNS: 2545, priceNoSNS: 2620,
           addons: [
             { name: "Additional 1-hour", price: 100, desc: "Additional stylist/interpreter/transport fees apply." },
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
@@ -1606,8 +1606,8 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session (1 Photographer)","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4.5 hours", locations: "1 Indoor Studio + 1 Outdoor Site (Noeul Park)", originalPhotos: "All Original", retouched: 20,
-          retouchedDetail: "Precise Retouching: 20 (Customer Selected)",
-          priceSNS: 2555, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 20",
+          priceSNS: 2575, priceNoSNS: null,
           addons: [
             { name: "Additional Shooting Time", price: null, desc: "Night shooting (after sunset): USD 85 per 30 min. Daytime shooting (before sunset): USD 60 per 30 min." },
             { name: "Express Retouching Service", price: 125, desc: "10 photos delivered within 10 days from photo selection date." },
@@ -1626,8 +1626,8 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography & Videography Session (2 Photographers)","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Approx. 2 Min Video","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4.5 hours", locations: "1 Indoor Studio + 1 Outdoor Site (Noeul Park)", originalPhotos: "All Original", retouched: 25,
-          retouchedDetail: "Precise Retouching: 25 (Customer Selected)",
-          priceSNS: 2905, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 25",
+          priceSNS: 2925, priceNoSNS: null,
           addons: [
             { name: "Additional Shooting Time", price: null, desc: "Night shooting (after sunset): USD 85 per 30 min. Daytime shooting (before sunset): USD 60 per 30 min." },
             { name: "Express Retouching Service", price: 125, desc: "10 photos delivered within 10 days from photo selection date." },
@@ -1642,7 +1642,7 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session (Morning Shoot Only)"],
           shootingTime: "2 hours", locations: "1 Site", originalPhotos: "All Original", retouched: 10,
-          retouchedDetail: "Precise Retouching: 10 (Customer Selected)",
+          retouchedDetail: "Customer Selected: 10",
           priceSNS: 500, priceNoSNS: null,
           addons: [
             { name: "Interpreter (English)", price: 100, desc: "For 2 hours." },
@@ -1658,6 +1658,7 @@ const PHOTOGRAPHERS = {
         {
           name: "Package A",
           subtitle: "Half Wedding 3hr (Seol in Seoul & K Salon)",
+          
           partners: {
             photographer: { name: "Seol in Seoul", instagram: "@seolinseoul_" },
             hmu: { name: "K Salon", instagram: "@k__salon" },
@@ -1667,11 +1668,11 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","1 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "3 hours", locations: "2 sites (Daytime+Sunset or Sunset+Night)", originalPhotos: "500+", retouched: 30,
-          retouchedDetail: "Precise Retouching: 30 (Customer Selected). Up to 2 outfits available.",
-          priceSNS: 2005, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 30. Up to 2 outfits.",
+          priceSNS: 2050, priceNoSNS: null,
           addons: [
             { name: "4K Videography (Younangman)", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41. Original footage: USD 41. Express Retouching: USD 124." },
-            { name: "Film Photography", price: 83, desc: "35mm film. Up to 30 original images. Kodak/Fuji options. Inclusive Printing & Scanning." },
+            { name: "Film Photography", price: 83, desc: "35mm film. Up to 30 original photos. Kodak/Fuji options. Inclusive Printing & Scanning." },
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
             { name: "Additional Suit", price: 85, desc: "Per suit." },
@@ -1691,12 +1692,12 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites (Day+Sunset+Night)", originalPhotos: "1,000+", retouched: 45,
-          retouchedDetail: "Precise Retouching: 45 (Customer Selected). Up to 3 outfits available.",
-          priceSNS: 2500, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 45. Up to 3 outfits.",
+          priceSNS: 2545, priceNoSNS: null,
           addons: [
             { name: "4K Videography - Younangman", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41. Original footage: USD 41. Express Retouching: USD 124." },
             { name: "4K Videography - Ownorbit", price: 665, desc: "4K cinematic highlight film approx. 2 min. Accompanies entire photoshoot. Portrait SNS video approx. 20 sec. Original footage included. Drone videography (weather permitting). Express Retouching: USD 83." },
-            { name: "Film Photography", price: 83, desc: "35mm film. Up to 30 original images. Kodak/Fuji options. Inclusive Printing & Scanning." },
+            { name: "Film Photography", price: 83, desc: "35mm film. Up to 30 original photos. Kodak/Fuji options. Inclusive Printing & Scanning." },
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
             { name: "Additional Suit", price: 85, desc: "Per suit." },
@@ -1716,12 +1717,12 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites (Day+Sunset+Night)", originalPhotos: "1,000+", retouched: 45,
-          retouchedDetail: "Precise Retouching: 45 (Customer Selected). Up to 3 outfits available.",
-          priceSNS: 2400, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 45. Up to 3 outfits.",
+          priceSNS: 2450, priceNoSNS: null,
           addons: [
             { name: "4K Videography - Younangman", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41. Original footage: USD 41. Express Retouching: USD 124." },
             { name: "4K Videography - Ownorbit", price: 665, desc: "4K cinematic highlight film approx. 2 min. Accompanies entire photoshoot. Portrait SNS video approx. 20 sec. Original footage included. Drone videography (weather permitting). Express Retouching: USD 83." },
-            { name: "Film Photography", price: 83, desc: "35mm film. Up to 30 original images. Kodak/Fuji options. Inclusive Printing & Scanning." },
+            { name: "Film Photography", price: 83, desc: "35mm film. Up to 30 original photos. Kodak/Fuji options. Inclusive Printing & Scanning." },
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
             { name: "Additional Suit", price: 85, desc: "Per suit." },
@@ -1746,8 +1747,8 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4-5 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 40,
-          retouchedDetail: "Precise Retouching: 40 (Customer Selected)",
-          priceSNS: 2185, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 40",
+          priceSNS: 2235, priceNoSNS: null,
           addons: [],
         },
         {
@@ -1758,7 +1759,7 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session"],
           shootingTime: "3 hours", locations: "2 sites", originalPhotos: "200+", retouched: 30,
-          retouchedDetail: "Precise Retouching: 30 (Customer Selected)",
+          retouchedDetail: "Customer Selected: 30",
           priceSNS: 330, priceNoSNS: null,
           addons: [
             { name: "Hair & Makeup for Bride and Groom", price: 210, desc: "K Salon (Instagram: @k__salon)." },
@@ -1772,7 +1773,7 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session (Up to 1 Outfit)"],
           shootingTime: "2 hours", locations: "1 site", originalPhotos: "100+", retouched: 15,
-          retouchedDetail: "Precise Retouching: 15 (Customer Selected)",
+          retouchedDetail: "Customer Selected: 15",
           priceSNS: 240, priceNoSNS: null,
           addons: [
             { name: "Hair & Makeup for Bride and Groom", price: 210, desc: "K Salon (Instagram: @k__salon)." },
@@ -1795,8 +1796,8 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","1 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "2 sites", originalPhotos: "500+", retouched: 10,
-          retouchedDetail: "Precise Retouching: 10 (Customer Selected). Up to 2 outfits available.",
-          priceSNS: 1860, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 10. Up to 2 outfits.",
+          priceSNS: 1910, priceNoSNS: null,
           addons: [
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
@@ -1816,8 +1817,8 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "2 sites", originalPhotos: "500+", retouched: 10,
-          retouchedDetail: "Precise Retouching: 10 (Customer Selected). Up to 2 outfits available.",
-          priceSNS: 2475, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 10. Up to 2 outfits.",
+          priceSNS: 2520, priceNoSNS: null,
           addons: [
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
@@ -1837,8 +1838,8 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "7 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 20,
-          retouchedDetail: "Precise Retouching: 20 (Customer Selected). Up to 3 outfits available.",
-          priceSNS: 2520, priceNoSNS: null,
+          retouchedDetail: "Customer Selected: 20. Up to 3 outfits.",
+          priceSNS: 2565, priceNoSNS: null,
           addons: [
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
@@ -1854,7 +1855,7 @@ const PHOTOGRAPHERS = {
           },
           inclusiveItems: ["Photography Session (2 hours)","Interpreter (On Shoot Day)"],
           shootingTime: "2 hours", locations: "1 site", originalPhotos: "300+", retouched: 10,
-          retouchedDetail: "Precise Retouching: 10 (Customer Selected). 1 outfit available.",
+          retouchedDetail: "Customer Selected: 10. 1 outfit.",
           priceSNS: 385, priceNoSNS: null,
           addons: [],
         },
@@ -2161,45 +2162,43 @@ function PackageDetail({ photographer, parentName, onBack, backLabel }) {
           {[
             { label: "Shooting Time", value: pkg.shootingTime },
             { label: "Locations", value: pkg.locations },
-            { label: "Original Photos", value: pkg.originalPhotos },
-            { label: "Retouched", value: `${pkg.retouched} images` },
+            { label: "Original Photos", value: `${pkg.originalPhotos} photos` },
           ].map((d) => (
             <div key={d.label}>
               <div style={{ fontSize: "12px", color: "#666" }}>{d.label}</div>
               <div style={{ fontSize: "18px", fontWeight: 400, color: "#2C2420", marginTop: "2px", fontFamily: "'Cormorant Garamond', serif" }}>{d.value}</div>
             </div>
           ))}
-        </div>
-        <div style={{ borderTop: "1px solid #E8E0D4", marginTop: "14px", paddingTop: "12px", fontSize: "13px", color: "#555", lineHeight: "1.6" }}>
-          {pkg.retouchedDetail}
+          <div>
+            <div style={{ fontSize: "12px", color: "#666" }}>Retouched Photos</div>
+            <div style={{ fontSize: "18px", fontWeight: 400, color: "#2C2420", marginTop: "2px", fontFamily: "'Cormorant Garamond', serif" }}>{pkg.retouched} photos</div>
+            <div style={{ fontSize: "12px", color: "#888", marginTop: "4px", lineHeight: "1.5", whiteSpace: "pre-line" }}>{pkg.retouchedDetail}</div>
+          </div>
         </div>
       </div>
 
       {/* Pricing */}
       {pkg.priceNoSNS !== null ? (
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "12px", marginBottom: "24px" }}>
-          <div style={{ background: "#2C2420", borderRadius: "4px", padding: "24px", textAlign: "center" }}>
+          <div style={{ background: "#2C2420", borderRadius: "4px", padding: "16px", textAlign: "center" }}>
             <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.75)", letterSpacing: "1px", textTransform: "uppercase" }}>Agree to SNS Upload</div>
-            <div style={{ fontSize: "32px", fontWeight: 300, color: "#fff", marginTop: "8px", fontFamily: "'Cormorant Garamond', serif" }}>
-              ${pkg.priceSNS.toLocaleString()}
+            <div style={{ fontSize: "22px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Cormorant Garamond', serif" }}>
+              USD {pkg.priceSNS.toLocaleString()}
             </div>
-            <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.65)", marginTop: "4px" }}>USD</div>
           </div>
-          <div style={{ background: "#FAFAF8", border: "1px solid #E8E0D4", borderRadius: "4px", padding: "24px", textAlign: "center" }}>
+          <div style={{ background: "#FAFAF8", border: "1px solid #E8E0D4", borderRadius: "4px", padding: "16px", textAlign: "center" }}>
             <div style={{ fontSize: "12px", color: "#666", letterSpacing: "1px", textTransform: "uppercase" }}>Decline SNS Upload</div>
-            <div style={{ fontSize: "32px", fontWeight: 300, color: "#2C2420", marginTop: "8px", fontFamily: "'Cormorant Garamond', serif" }}>
-              ${pkg.priceNoSNS.toLocaleString()}
+            <div style={{ fontSize: "22px", fontWeight: 400, color: "#2C2420", marginTop: "6px", fontFamily: "'Cormorant Garamond', serif" }}>
+              USD {pkg.priceNoSNS.toLocaleString()}
             </div>
-            <div style={{ fontSize: "12px", color: "#666", marginTop: "4px" }}>USD</div>
           </div>
         </div>
       ) : (
-        <div style={{ background: "#2C2420", borderRadius: "4px", padding: "24px", textAlign: "center", marginBottom: "24px" }}>
+        <div style={{ background: "#2C2420", borderRadius: "4px", padding: "16px", textAlign: "center", marginBottom: "24px" }}>
           <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.75)", letterSpacing: "1px", textTransform: "uppercase" }}>Package Price</div>
-          <div style={{ fontSize: "32px", fontWeight: 300, color: "#fff", marginTop: "8px", fontFamily: "'Cormorant Garamond', serif" }}>
-            ${pkg.priceSNS.toLocaleString()}
+          <div style={{ fontSize: "22px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Cormorant Garamond', serif" }}>
+            USD {pkg.priceSNS.toLocaleString()}
           </div>
-          <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.65)", marginTop: "4px" }}>USD</div>
         </div>
       )}
       <p style={{ fontSize: "12px", color: "#666", margin: "-12px 0 8px 4px" }}>

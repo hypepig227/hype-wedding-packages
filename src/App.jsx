@@ -1475,7 +1475,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session (2 Photographers)","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Videography (2:30 behind-the-scenes video, Original + Final)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "1 Indoor Studio + 1 Outdoor Site (Noeul Park)", originalPhotos: "1,500+", retouched: 25,
           retouchedDetail: "Customer Selected: 25",
-          priceSNS: 2570, priceNoSNS: 2670,
+          priceSNS: 2620, priceNoSNS: 2715,
           addons: [
             { name: "Night Photography", price: 128, desc: "Location: Dongjak Bridge (Han River, Seoul). 1 hour additional. 5 additional retouched photos. Additional stylist/interpreter/transport fees apply." },
             { name: "Studio Photography Addition", price: null, desc: "Price varies by studio; booked after consultation." },
@@ -1494,7 +1494,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session (2 Photographers)","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Videography (2:30 behind-the-scenes video, Original + Final)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "2 Outdoor Sites (Noeul Park + Eulwangri Beach)", originalPhotos: "1,500+", retouched: 25,
           retouchedDetail: "Customer Selected: 25",
-          priceSNS: 2570, priceNoSNS: 2670,
+          priceSNS: 2620, priceNoSNS: 2715,
           addons: [
             { name: "Night Photography with Fireworks", price: 128, desc: "1 hour additional. Fireworks provided by photographer. Weather permitting. 5 additional retouched photos. Additional stylist/interpreter/transport fees apply." },
           ],
@@ -1517,7 +1517,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "1 Studio (2hrs) + 1-2 Outdoor", originalPhotos: "1,500+", retouched: 30,
           retouchedDetail: "Customer Selected: 23 + Photographer Selected: 7",
-          priceSNS: 2670, priceNoSNS: null,
+          priceSNS: 2715, priceNoSNS: 2805,
           addons: [
             { name: "4K Videography (Younangman)", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41 (30 sec). Original footage: USD 41 (20 min). Express Retouching: USD 124." },
             { name: "Studio Photography Addition", price: null, desc: "Studio rental fee charged separately. Studio list provided upon request. Additional stylist/interpreter/transport fees apply." },
@@ -1536,7 +1536,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "2-3 Outdoor locations", originalPhotos: "1,500+", retouched: 30,
           retouchedDetail: "Customer Selected: 23 + Photographer Selected: 7",
-          priceSNS: 2670, priceNoSNS: null,
+          priceSNS: 2715, priceNoSNS: 2805,
           addons: [
             { name: "4K Videography (Younangman)", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41 (30 sec). Original footage: USD 41 (20 min). Express Retouching: USD 124." },
             { name: "Studio Photography Addition", price: null, desc: "Studio rental fee charged separately. Studio list provided upon request. Additional stylist/interpreter/transport fees apply." },
@@ -1560,7 +1560,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","1 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "3 hours", locations: "2 sites", originalPhotos: "500+", retouched: 20,
           retouchedDetail: "Customer Selected: 20. Up to 2 outfits.",
-          priceSNS: 2005, priceNoSNS: 2060,
+          priceSNS: 2050, priceNoSNS: 2105,
           addons: [
             { name: "Additional 1-hour", price: 100, desc: "Additional stylist/interpreter/transport fees apply." },
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
@@ -1581,7 +1581,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 30,
           retouchedDetail: "Customer Selected: 30. Up to 3 outfits.",
-          priceSNS: 2500, priceNoSNS: 2570,
+          priceSNS: 2545, priceNoSNS: 2620,
           addons: [
             { name: "Additional 1-hour", price: 100, desc: "Additional stylist/interpreter/transport fees apply." },
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
@@ -1607,7 +1607,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session (1 Photographer)","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4.5 hours", locations: "1 Indoor Studio + 1 Outdoor Site (Noeul Park)", originalPhotos: "All Original", retouched: 20,
           retouchedDetail: "Customer Selected: 20",
-          priceSNS: 2555, priceNoSNS: null,
+          priceSNS: 2575, priceNoSNS: null,
           addons: [
             { name: "Additional Shooting Time", price: null, desc: "Night shooting (after sunset): USD 85 per 30 min. Daytime shooting (before sunset): USD 60 per 30 min." },
             { name: "Express Retouching Service", price: 125, desc: "10 photos delivered within 10 days from photo selection date." },
@@ -1627,7 +1627,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography & Videography Session (2 Photographers)","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Approx. 2 Min Video","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4.5 hours", locations: "1 Indoor Studio + 1 Outdoor Site (Noeul Park)", originalPhotos: "All Original", retouched: 25,
           retouchedDetail: "Customer Selected: 25",
-          priceSNS: 2905, priceNoSNS: null,
+          priceSNS: 2925, priceNoSNS: null,
           addons: [
             { name: "Additional Shooting Time", price: null, desc: "Night shooting (after sunset): USD 85 per 30 min. Daytime shooting (before sunset): USD 60 per 30 min." },
             { name: "Express Retouching Service", price: 125, desc: "10 photos delivered within 10 days from photo selection date." },
@@ -1658,6 +1658,7 @@ const PHOTOGRAPHERS = {
         {
           name: "Package A",
           subtitle: "Half Wedding 3hr (Seol in Seoul & K Salon)",
+          
           partners: {
             photographer: { name: "Seol in Seoul", instagram: "@seolinseoul_" },
             hmu: { name: "K Salon", instagram: "@k__salon" },
@@ -1668,7 +1669,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","1 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "3 hours", locations: "2 sites (Daytime+Sunset or Sunset+Night)", originalPhotos: "500+", retouched: 30,
           retouchedDetail: "Customer Selected: 30. Up to 2 outfits.",
-          priceSNS: 2005, priceNoSNS: null,
+          priceSNS: 2050, priceNoSNS: null,
           addons: [
             { name: "4K Videography (Younangman)", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41. Original footage: USD 41. Express Retouching: USD 124." },
             { name: "Film Photography", price: 83, desc: "35mm film. Up to 30 original photos. Kodak/Fuji options. Inclusive Printing & Scanning." },
@@ -1692,7 +1693,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites (Day+Sunset+Night)", originalPhotos: "1,000+", retouched: 45,
           retouchedDetail: "Customer Selected: 45. Up to 3 outfits.",
-          priceSNS: 2500, priceNoSNS: null,
+          priceSNS: 2545, priceNoSNS: null,
           addons: [
             { name: "4K Videography - Younangman", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41. Original footage: USD 41. Express Retouching: USD 124." },
             { name: "4K Videography - Ownorbit", price: 665, desc: "4K cinematic highlight film approx. 2 min. Accompanies entire photoshoot. Portrait SNS video approx. 20 sec. Original footage included. Drone videography (weather permitting). Express Retouching: USD 83." },
@@ -1717,7 +1718,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites (Day+Sunset+Night)", originalPhotos: "1,000+", retouched: 45,
           retouchedDetail: "Customer Selected: 45. Up to 3 outfits.",
-          priceSNS: 2400, priceNoSNS: null,
+          priceSNS: 2450, priceNoSNS: null,
           addons: [
             { name: "4K Videography - Younangman", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41. Original footage: USD 41. Express Retouching: USD 124." },
             { name: "4K Videography - Ownorbit", price: 665, desc: "4K cinematic highlight film approx. 2 min. Accompanies entire photoshoot. Portrait SNS video approx. 20 sec. Original footage included. Drone videography (weather permitting). Express Retouching: USD 83." },
@@ -1747,7 +1748,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4-5 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 40,
           retouchedDetail: "Customer Selected: 40",
-          priceSNS: 2185, priceNoSNS: null,
+          priceSNS: 2235, priceNoSNS: null,
           addons: [],
         },
         {
@@ -1796,7 +1797,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","1 Dress + 1 Heel","1 Suit (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "2 sites", originalPhotos: "500+", retouched: 10,
           retouchedDetail: "Customer Selected: 10. Up to 2 outfits.",
-          priceSNS: 1860, priceNoSNS: null,
+          priceSNS: 1910, priceNoSNS: null,
           addons: [
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
@@ -1817,7 +1818,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "2 sites", originalPhotos: "500+", retouched: 10,
           retouchedDetail: "Customer Selected: 10. Up to 2 outfits.",
-          priceSNS: 2475, priceNoSNS: null,
+          priceSNS: 2520, priceNoSNS: null,
           addons: [
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
@@ -1838,7 +1839,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "7 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 20,
           retouchedDetail: "Customer Selected: 20. Up to 3 outfits.",
-          priceSNS: 2520, priceNoSNS: null,
+          priceSNS: 2565, priceNoSNS: null,
           addons: [
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
             { name: "Additional Dress", price: 187, desc: "Per dress." },
