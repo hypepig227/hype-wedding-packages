@@ -29,7 +29,7 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "1,000+",
               retouched: 40,
-              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
+              retouchedDetail: "Detailed Retouch: 25 + Color Correction Only: 15",
               priceSNS: 2730,
               priceNoSNS: 2870,
               addons: [
@@ -56,7 +56,7 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "1,000+",
               retouched: 40,
-              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
+              retouchedDetail: "Detailed Retouch: 25 + Color Correction Only: 15",
               priceSNS: 2740,
               priceNoSNS: 2880,
               addons: [
@@ -83,7 +83,7 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "1,000+",
               retouched: 40,
-              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
+              retouchedDetail: "Detailed Retouch: 25 + Color Correction Only: 15",
               priceSNS: 2880,
               priceNoSNS: 3020,
               addons: [
@@ -119,7 +119,7 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "1,000+",
               retouched: 40,
-              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
+              retouchedDetail: "Detailed Retouch: 25 + Color Correction Only: 15",
               priceSNS: 2450,
               priceNoSNS: 2590,
               addons: [
@@ -145,7 +145,7 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "1,000+",
               retouched: 40,
-              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
+              retouchedDetail: "Detailed Retouch: 25 + Color Correction Only: 15",
               priceSNS: 2455,
               priceNoSNS: 2595,
               addons: [
@@ -171,7 +171,7 @@ const PHOTOGRAPHERS = {
               locations: "3 sites",
               originalPhotos: "1,000+",
               retouched: 40,
-              retouchedDetail: "Customer Selected: 25 + Color Correction: 15",
+              retouchedDetail: "Detailed Retouch: 25 + Color Correction Only: 15",
               priceSNS: 2595,
               priceNoSNS: 2740,
               addons: [
