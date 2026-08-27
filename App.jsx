@@ -834,7 +834,7 @@ const PHOTOGRAPHERS = {
                 hmu: { name: "Jeju You 1", instagram: "@jeju_you1_hair_makeup" },
                 dress: { name: "Jeju You 1", instagram: "@jeju_you1_dress" },
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
-            bouquet: { name: "Hatt", instagram: "@hatt__flower" },
+            bouquet: { name: "Jeju You 1", instagram: "@jeju_you1" },
               },
               inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
               shootingTime: "5 hours",
@@ -941,7 +941,7 @@ const PHOTOGRAPHERS = {
                 hmu: { name: "Jeju You 1", instagram: "@jeju_you1_hair_makeup" },
                 dress: { name: "Jeju You 1", instagram: "@jeju_you1_dress" },
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
-            bouquet: { name: "Hatt", instagram: "@hatt__flower" },
+            bouquet: { name: "Jeju You 1", instagram: "@jeju_you1" },
               },
               inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
               shootingTime: "5 hours",
@@ -1057,7 +1057,7 @@ const PHOTOGRAPHERS = {
                 hmu: { name: "Jeju You 1", instagram: "@jeju_you1_hair_makeup" },
                 dress: { name: "Jeju You 1", instagram: "@jeju_you1_dress" },
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
-            bouquet: { name: "Hatt", instagram: "@hatt__flower" },
+            bouquet: { name: "Jeju You 1", instagram: "@jeju_you1" },
               },
               inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Pre-Wedding Video (3-5 min, landscape)","Interpreter (On Shoot Day)","4K Pre-Wedding Highlight Video (~1 min, landscape)","Private Van with Driver (On Shoot Day)"],
               shootingTime: "5 hours",
@@ -1167,7 +1167,7 @@ const PHOTOGRAPHERS = {
                 hmu: { name: "Jeju You 1", instagram: "@jeju_you1_hair_makeup" },
                 dress: { name: "Jeju You 1", instagram: "@jeju_you1_dress" },
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
-            bouquet: { name: "Hatt", instagram: "@hatt__flower" },
+            bouquet: { name: "Jeju You 1", instagram: "@jeju_you1" },
               },
               inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Pre-Wedding Video (3-5 min, landscape)","Interpreter (On Shoot Day)","4K Pre-Wedding Highlight Video (~1 min, landscape)","Private Van with Driver (On Shoot Day)"],
               shootingTime: "5 hours",
@@ -1232,7 +1232,7 @@ const PHOTOGRAPHERS = {
             hmu: { name: "Jeju You 1", instagram: "@jeju_you1_hair_makeup" },
             dress: { name: "Jeju You 1", instagram: "@jeju_you1_dress" },
             suit: { name: "Fotton Garment", instagram: "@fotton.jeju" },
-            bouquet: { name: "Jeju You 1", instagram: "@jeju_you1_dress" },
+            bouquet: { name: "Jeju You 1", instagram: "@jeju_you1" },
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
@@ -1319,7 +1319,7 @@ const PHOTOGRAPHERS = {
             hmu: { name: "Jeju You 1", instagram: "@jeju_you1_hair_makeup" },
             dress: { name: "Jeju You 1", instagram: "@jeju_you1_dress" },
             suit: { name: "Fotton Garment", instagram: "@fotton.jeju" },
-            bouquet: { name: "Jeju You 1", instagram: "@jeju_you1_dress" },
+            bouquet: { name: "Jeju You 1", instagram: "@jeju_you1" },
           },
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
@@ -3243,7 +3243,7 @@ function BackButton({ onClick, label }) {
         display: "flex",
         alignItems: "center",
         gap: "6px",
-        fontFamily: "'Inter', sans-serif",
+        fontFamily: "'Inter', -apple-system, sans-serif",
       }}
     >
       <span style={{ fontSize: "18px" }}>&#8249;</span> {label}
@@ -3287,9 +3287,11 @@ function ListButton({ onClick, disabled, left, right }) {
   );
 }
 
-function RegionSelect({ onSelect }) {
+function RegionSelect({ onSelect, onBack }) {
   return (
-    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "20px", marginTop: "60px" }}>
+    <div>
+      <BackButton onClick={onBack} label="Back" />
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "20px", marginTop: "20px" }}>
       <p style={{ color: "#666", fontSize: "14px", letterSpacing: "2px", textTransform: "uppercase", margin: 0 }}>
         Select Location
       </p>
@@ -3320,11 +3322,12 @@ function RegionSelect({ onSelect }) {
               e.currentTarget.style.boxShadow = "none";
             }}
           >
-            <div style={{ fontSize: "24px", fontWeight: 300, color: "#111111", fontFamily: "'Cormorant Garamond', serif" }}>{r.label}</div>
+            <div style={{ fontSize: "24px", fontWeight: 300, color: "#111111", fontFamily: "'Playfair Display', serif" }}>{r.label}</div>
             <div style={{ fontSize: "12px", color: "#666", marginTop: "8px", letterSpacing: "1px" }}>{r.sub}</div>
           </button>
         ))}
       </div>
+    </div>
     </div>
   );
 }
@@ -3332,7 +3335,7 @@ function RegionSelect({ onSelect }) {
 function PhotographerList({ region, photographers, onSelect, onBack }) {
   return (
     <div>
-      <BackButton onClick={onBack} label="Location" />
+      <BackButton onClick={onBack} label="Back" />
       <p style={{ color: "#666", fontSize: "13px", letterSpacing: "2px", textTransform: "uppercase", margin: "24px 0 16px", textAlign: "center" }}>
         {region === "jeju" ? "Jeju" : "Seoul"} Photographers
       </p>
@@ -3349,7 +3352,7 @@ function PhotographerList({ region, photographers, onSelect, onBack }) {
               left={
                 <>
                   <span style={{ color: "#555555", fontSize: "12px", fontWeight: 600 }}>{p.number}</span>
-                  <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Cormorant Garamond', serif", fontWeight: 500 }}>
+                  <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Playfair Display', serif", fontWeight: 500 }}>
                     {p.name}
                   </span>
                 </>
@@ -3374,9 +3377,9 @@ function PhotographerList({ region, photographers, onSelect, onBack }) {
 function SubPhotographerList({ photographer, onSelect, onBack }) {
   return (
     <div>
-      <BackButton onClick={onBack} label="Photographers" />
+      <BackButton onClick={onBack} label="Back" />
       <div style={{ textAlign: "center", margin: "24px 0 24px" }}>
-        <h2 style={{ fontFamily: "'Cormorant Garamond', serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
+        <h2 style={{ fontFamily: "'Playfair Display', serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
           {photographer.name}
         </h2>
         <p style={{ margin: "4px 0 0", fontSize: "13px" }}>
@@ -3395,7 +3398,7 @@ function SubPhotographerList({ photographer, onSelect, onBack }) {
             left={
               <>
                 <span style={{ color: "#555555", fontSize: "12px", fontWeight: 600 }}>{sub.number}</span>
-                <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Cormorant Garamond', serif", fontWeight: 500 }}>
+                <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Playfair Display', serif", fontWeight: 500 }}>
                   {sub.name}
                 </span>
               </>
@@ -3420,10 +3423,10 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
 
   return (
     <div>
-      <BackButton onClick={onBack} label={backLabel} />
+      <BackButton onClick={onBack} label="Back" />
 
       <div style={{ textAlign: "center", margin: "24px 0 32px" }}>
-        <h2 style={{ fontFamily: "'Cormorant Garamond', serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
+        <h2 style={{ fontFamily: "'Playfair Display', serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
           {displayName}
         </h2>
         <p style={{ margin: "4px 0 0", fontSize: "13px" }}>
@@ -3511,12 +3514,12 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
           ].map((d) => (
             <div key={d.label}>
               <div style={{ fontSize: "12px", color: "#666" }}>{d.label}</div>
-              <div style={{ fontSize: "18px", fontWeight: 400, color: "#111111", marginTop: "2px", fontFamily: "'Cormorant Garamond', serif" }}>{d.value}</div>
+              <div style={{ fontSize: "18px", fontWeight: 400, color: "#111111", marginTop: "2px", fontFamily: "'Playfair Display', serif" }}>{d.value}</div>
             </div>
           ))}
           <div>
             <div style={{ fontSize: "12px", color: "#666" }}>Retouched Photos</div>
-            <div style={{ fontSize: "18px", fontWeight: 400, color: "#111111", marginTop: "2px", fontFamily: "'Cormorant Garamond', serif" }}>{pkg.retouched} photos</div>
+            <div style={{ fontSize: "18px", fontWeight: 400, color: "#111111", marginTop: "2px", fontFamily: "'Playfair Display', serif" }}>{pkg.retouched} photos</div>
             <div style={{ fontSize: "12px", color: "#888", marginTop: "4px", lineHeight: "1.5", whiteSpace: "pre-line" }}>{pkg.retouchedDetail}</div>
           </div>
         </div>
@@ -3527,13 +3530,13 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "12px", marginBottom: "24px" }}>
           <div style={{ background: "#111111", borderRadius: "4px", padding: "16px", textAlign: "center" }}>
             <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.75)", letterSpacing: "1px", textTransform: "uppercase" }}><span style={{ fontSize: "14px", fontWeight: 700 }}>Discounted Price</span><br/>(With SNS Upload Consent)</div>
-            <div style={{ fontSize: "22px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Cormorant Garamond', serif" }}>
+            <div style={{ fontSize: "22px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Playfair Display', serif" }}>
               USD {pkg.priceSNS.toLocaleString()}
             </div>
           </div>
           <div style={{ background: "#fafafa", border: "1px solid #e0e0e0", borderRadius: "4px", padding: "16px", textAlign: "center" }}>
             <div style={{ fontSize: "12px", color: "#666", letterSpacing: "1px", textTransform: "uppercase" }}><span style={{ fontSize: "14px", fontWeight: 700 }}>Regular Price</span><br/>(No SNS Upload Consent)</div>
-            <div style={{ fontSize: "22px", fontWeight: 400, color: "#111111", marginTop: "6px", fontFamily: "'Cormorant Garamond', serif" }}>
+            <div style={{ fontSize: "22px", fontWeight: 400, color: "#111111", marginTop: "6px", fontFamily: "'Playfair Display', serif" }}>
               USD {pkg.priceNoSNS.toLocaleString()}
             </div>
           </div>
@@ -3541,7 +3544,7 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
       ) : (
         <div style={{ background: "#111111", borderRadius: "4px", padding: "16px", textAlign: "center", marginBottom: "24px" }}>
           <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.75)", letterSpacing: "1px", textTransform: "uppercase" }}>Package Price</div>
-          <div style={{ fontSize: "22px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Cormorant Garamond', serif" }}>
+          <div style={{ fontSize: "22px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Playfair Display', serif" }}>
             USD {pkg.priceSNS.toLocaleString()}
           </div>
         </div>
@@ -3678,7 +3681,7 @@ export default function App() {
       {/* Header */}
       <div style={{ textAlign: "center", marginBottom: "16px" }}>
         <h1 style={{
-          fontFamily: "'Cormorant Garamond', serif",
+          fontFamily: "'Playfair Display', serif",
           fontSize: "20px",
           fontWeight: 300,
           letterSpacing: "4px",
@@ -3724,13 +3727,13 @@ export default function App() {
                   e.currentTarget.style.boxShadow = "none";
                 }}
               >
-                <div style={{ fontSize: "28px", fontWeight: 300, color: "#111111", fontFamily: "'Cormorant Garamond', serif" }}>{year}</div>
+                <div style={{ fontSize: "28px", fontWeight: 300, color: "#111111", fontFamily: "'Playfair Display', serif" }}>{year}</div>
               </button>
             ))}
           </div>
         </div>
       )}
-      {showRegion && <RegionSelect onSelect={setRegion} />}
+      {showRegion && <RegionSelect onSelect={setRegion} onBack={() => setSelectedYear(null)} />}
       {showList && (
         <PhotographerList
           region={region}
