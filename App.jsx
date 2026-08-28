@@ -3351,8 +3351,8 @@ function PhotographerList({ region, photographers, onSelect, onBack }) {
               disabled={!available}
               left={
                 <>
-                  <span style={{ color: "#555555", fontSize: "12px", fontWeight: 600 }}>{p.number}</span>
-                  <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 500 }}>
+                  <span style={{ color: "#555555", fontSize: "12px", fontWeight: 400 }}>{p.number}</span>
+                  <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400 }}>
                     {p.name}
                   </span>
                 </>
@@ -3394,8 +3394,8 @@ function SubPhotographerList({ photographer, onSelect, onBack }) {
             disabled={false}
             left={
               <>
-                <span style={{ color: "#555555", fontSize: "12px", fontWeight: 600 }}>{sub.number}</span>
-                <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 500 }}>
+                <span style={{ color: "#555555", fontSize: "12px", fontWeight: 400 }}>{sub.number}</span>
+                <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400 }}>
                   {sub.name}
                 </span>
               </>
