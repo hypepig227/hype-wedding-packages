@@ -559,7 +559,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon / He Spoke Suit", instagram: "@k__salon / @hespokesuit" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -585,7 +585,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -611,7 +611,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -637,7 +637,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -665,7 +665,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon / He Spoke Suit", instagram: "@k__salon / @hespokesuit" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -691,7 +691,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -717,7 +717,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -743,7 +743,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Footage (1 Clip, 30s-1m)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -1234,7 +1234,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "Fotton Garment", instagram: "@fotton.jeju" },
             bouquet: { name: "Jeju You 1", instagram: "@jeju_you1" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -1262,7 +1262,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "He Spoke Suit", instagram: "@hespokesuit_official" },
             bouquet: { name: "Loo Loo Flower", instagram: "@loolloo_flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -1290,7 +1290,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "Atle Jeju", instagram: "@atlejeju_tuxedo" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -1321,7 +1321,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "Fotton Garment", instagram: "@fotton.jeju" },
             bouquet: { name: "Jeju You 1", instagram: "@jeju_you1" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -1349,7 +1349,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "He Spoke Suit", instagram: "@hespokesuit_official" },
             bouquet: { name: "Loo Loo Flower", instagram: "@loolloo_flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 Heel","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -1377,7 +1377,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "Atle Jeju", instagram: "@atlejeju_tuxedo" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone videography is subject to weather conditions."],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","4K Cinematic Drone Shooting (20-30 sec video)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone videography is subject to weather conditions."],
           shootingTime: "4 hours",
           locations: "3 sites",
           originalPhotos: "1,000+",
@@ -1642,13 +1642,13 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 3175, priceNoSNS: 3265,
               addons: [
                 { name: "Two(2) Photographer Option", price: 255, desc: "Additional 600 original photos. Two photographers working simultaneously for different perspectives." },
-                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). *Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
+                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
                 { name: "Studio Photography Addition", price: 239, desc: "Studio rental included. First-come, first-served (2 teams/day max). Replaces 1 outdoor location; 3 concepts possible." },
                 { name: "Photographer Assignment/Change Fee", price: 85, desc: "If not specified, photographer randomly assigned. Additional charge for change after initial assignment (personal reasons)." },
                 { name: "Additional Retouched Photo", price: 8, desc: "Per photo." },
@@ -1666,13 +1666,13 @@ const PHOTOGRAPHERS = {
                 suit: { name: "Browntail Suit", instagram: "@browntail_jeju_suit" },
             bouquet: { name: "La Vie en Rose Jeju", instagram: "@la_vie_en_rose_jeju" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 3180, priceNoSNS: 3275,
               addons: [
                 { name: "Two(2) Photographer Option", price: 255, desc: "Additional 600 original photos. Two photographers working simultaneously for different perspectives." },
-                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). *Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
+                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
                 { name: "Studio Photography Addition", price: 239, desc: "Studio rental included. First-come, first-served (2 teams/day max). Replaces 1 outdoor location; 3 concepts possible." },
                 { name: "Photographer Assignment/Change Fee", price: 85, desc: "If not specified, photographer randomly assigned. Additional charge for change after initial assignment (personal reasons)." },
                 { name: "Additional Retouched Photo", price: 8, desc: "Per photo." },
@@ -1690,13 +1690,13 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 3215, priceNoSNS: 3305,
               addons: [
                 { name: "Two(2) Photographer Option", price: 255, desc: "Additional 600 original photos. Two photographers working simultaneously for different perspectives." },
-                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). *Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
+                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
                 { name: "Studio Photography Addition", price: 239, desc: "Studio rental included. First-come, first-served (2 teams/day max). Replaces 1 outdoor location; 3 concepts possible." },
                 { name: "Photographer Assignment/Change Fee", price: 85, desc: "If not specified, photographer randomly assigned. Additional charge for change after initial assignment (personal reasons)." },
                 { name: "Additional Retouched Photo", price: 8, desc: "Per photo." },
@@ -1716,13 +1716,13 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 3255, priceNoSNS: 3310,
               addons: [
                 { name: "Two(2) Photographer Option", price: 255, desc: "Additional 600 original photos. Two photographers working simultaneously for different perspectives." },
-                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). *Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
+                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
                 { name: "Studio Photography Addition", price: 239, desc: "Studio rental included. First-come, first-served (2 teams/day max). Replaces 1 outdoor location; 3 concepts possible." },
                 { name: "Photographer Assignment/Change Fee", price: 85, desc: "If not specified, photographer randomly assigned. Additional charge for change after initial assignment (personal reasons)." },
                 { name: "Additional Retouched Photo", price: 8, desc: "Per photo." },
@@ -1740,13 +1740,13 @@ const PHOTOGRAPHERS = {
                 suit: { name: "Browntail Suit", instagram: "@browntail_jeju_suit" },
             bouquet: { name: "La Vie en Rose Jeju", instagram: "@la_vie_en_rose_jeju" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 3200, priceNoSNS: 3295,
               addons: [
                 { name: "Two(2) Photographer Option", price: 255, desc: "Additional 600 original photos. Two photographers working simultaneously for different perspectives." },
-                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). *Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
+                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
                 { name: "Studio Photography Addition", price: 239, desc: "Studio rental included. First-come, first-served (2 teams/day max). Replaces 1 outdoor location; 3 concepts possible." },
                 { name: "Photographer Assignment/Change Fee", price: 85, desc: "If not specified, photographer randomly assigned. Additional charge for change after initial assignment (personal reasons)." },
                 { name: "Additional Retouched Photo", price: 8, desc: "Per photo." },
@@ -1764,13 +1764,13 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Pre-Wedding Highlight Video (Approx. 1 min, Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 3215, priceNoSNS: 3350,
               addons: [
                 { name: "Two(2) Photographer Option", price: 255, desc: "Additional 600 original photos. Two photographers working simultaneously for different perspectives." },
-                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). *Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
+                { name: "Additional Videography", price: 426, desc: "Original video footage + professionally edited pre-wedding video (3-4 min) + portrait highlight video for SNS (1 min). Note: When adding videography, the basic 1-min highlight video is upgraded to 3-4 min." },
                 { name: "Studio Photography Addition", price: 239, desc: "Studio rental included. First-come, first-served (2 teams/day max). Replaces 1 outdoor location; 3 concepts possible." },
                 { name: "Photographer Assignment/Change Fee", price: 85, desc: "If not specified, photographer randomly assigned. Additional charge for change after initial assignment (personal reasons)." },
                 { name: "Additional Retouched Photo", price: 8, desc: "Per photo." },
@@ -1797,7 +1797,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2800, priceNoSNS: 2890,
@@ -1821,7 +1821,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "Browntail Suit", instagram: "@browntail_jeju_suit" },
             bouquet: { name: "La Vie en Rose Jeju", instagram: "@la_vie_en_rose_jeju" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2805, priceNoSNS: 2900,
@@ -1845,7 +1845,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2840, priceNoSNS: 2935,
@@ -1871,7 +1871,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2835, priceNoSNS: 2930,
@@ -1895,7 +1895,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "Browntail Suit", instagram: "@browntail_jeju_suit" },
             bouquet: { name: "La Vie en Rose Jeju", instagram: "@la_vie_en_rose_jeju" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2825, priceNoSNS: 2920,
@@ -1919,7 +1919,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Drone Videography (Approx. 40-sec Edited Video in Landscape Format)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2880, priceNoSNS: 2975,
@@ -1952,7 +1952,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2705, priceNoSNS: 2800,
@@ -1976,7 +1976,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "Browntail Suit", instagram: "@browntail_jeju_suit" },
             bouquet: { name: "La Vie en Rose Jeju", instagram: "@la_vie_en_rose_jeju" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2710, priceNoSNS: 2805,
@@ -2000,7 +2000,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2745, priceNoSNS: 2840,
@@ -2026,7 +2026,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2785, priceNoSNS: 2835,
@@ -2050,7 +2050,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "Browntail Suit", instagram: "@browntail_jeju_suit" },
             bouquet: { name: "La Vie en Rose Jeju", instagram: "@la_vie_en_rose_jeju" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress + 1 White Heel (KR 44~77, Heel 220~255cm)","2 Suits (Shirt and Shoes NOT included, Top 95~120 / Bottom 28~39in)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2475, priceNoSNS: 2570,
@@ -2074,7 +2074,7 @@ const PHOTOGRAPHERS = {
                 suit: { name: "The Suit Homme", instagram: "@thesuit_rentalcenter" },
             bouquet: { name: "Hatt", instagram: "@hatt__flower" },
               },
-              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","*Note: Drone photography and videography are subject to weather conditions."],
+              inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dress (Shoes NOT included)","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Earrings, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet","Drone Photography (Upon Client Request Only)","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)","Note: Drone photography and videography are subject to weather conditions."],
               shootingTime: "5 hours", locations: "3-4 sites", originalPhotos: "1,000+", retouched: 40,
               retouchedDetail: "Customer Selected: 20 + Photographer Selected: 20",
               priceSNS: 2745, priceNoSNS: 2880,
@@ -3208,7 +3208,7 @@ function InstagramLink({ handle }) {
             href={`https://instagram.com/${h.replace("@", "")}`}
             target="_blank"
             rel="noopener noreferrer"
-            style={{ color: "#555555", textDecoration: "none", borderBottom: "1px solid #dddddd" }}
+            style={{ color: "#1E5045", textDecoration: "none", borderBottom: "1px solid #5E9485" }}
           >
             {h}
           </a>
@@ -3224,7 +3224,7 @@ function RenderDesc({ text }) {
   const parts = text.split(/(@[\w._]+)/g);
   return parts.map((part, i) =>
     part.startsWith("@") ? (
-      <a key={i} href={`https://instagram.com/${part.replace("@", "")}`} target="_blank" rel="noopener noreferrer" style={{ color: "#555555", textDecoration: "none", borderBottom: "1px solid #dddddd" }}>{part}</a>
+      <a key={i} href={`https://instagram.com/${part.replace("@", "")}`} target="_blank" rel="noopener noreferrer" style={{ color: "#1E5045", textDecoration: "none", borderBottom: "1px solid #5E9485" }}>{part}</a>
     ) : <span key={i}>{part}</span>
   );
 }
@@ -3236,14 +3236,14 @@ function BackButton({ onClick, label }) {
       style={{
         background: "none",
         border: "none",
-        color: "#555555",
+        color: "#1E5045",
         cursor: "pointer",
         fontSize: "14px",
-        padding: "8px 0",
+        padding: "4px 0",
         display: "flex",
         alignItems: "center",
         gap: "6px",
-        fontFamily: "'Inter', -apple-system, sans-serif",
+        fontFamily: "'Pretendard', -apple-system, sans-serif",
       }}
     >
       <span style={{ fontSize: "18px" }}>&#8249;</span> {label}
@@ -3262,7 +3262,7 @@ function ListButton({ onClick, disabled, left, right }) {
         alignItems: "center",
         padding: "16px 20px",
         background: !disabled ? "#fff" : "#fafafa",
-        border: "1px solid #e0e0e0",
+        border: "1px solid #5E9485",
         borderRadius: "4px",
         cursor: !disabled ? "pointer" : "default",
         opacity: !disabled ? 1 : 0.5,
@@ -3272,12 +3272,12 @@ function ListButton({ onClick, disabled, left, right }) {
       }}
       onMouseEnter={(e) => {
         if (!disabled) {
-          e.currentTarget.style.borderColor = "#555555";
+          e.currentTarget.style.borderColor = "#1E5045";
           e.currentTarget.style.boxShadow = "0 2px 12px rgba(139,115,85,0.08)";
         }
       }}
       onMouseLeave={(e) => {
-        e.currentTarget.style.borderColor = "#e0e0e0";
+        e.currentTarget.style.borderColor = "#5E9485";
         e.currentTarget.style.boxShadow = "none";
       }}
     >
@@ -3307,22 +3307,22 @@ function RegionSelect({ onSelect, onBack }) {
               width: "200px",
               padding: "40px 24px",
               background: "#fff",
-              border: "1px solid #e0e0e0",
+              border: "1px solid #5E9485",
               borderRadius: "4px",
               cursor: "pointer",
               transition: "all 0.2s",
               textAlign: "center",
             }}
             onMouseEnter={(e) => {
-              e.currentTarget.style.borderColor = "#555555";
+              e.currentTarget.style.borderColor = "#1E5045";
               e.currentTarget.style.boxShadow = "0 4px 20px rgba(139,115,85,0.1)";
             }}
             onMouseLeave={(e) => {
-              e.currentTarget.style.borderColor = "#e0e0e0";
+              e.currentTarget.style.borderColor = "#5E9485";
               e.currentTarget.style.boxShadow = "none";
             }}
           >
-            <div style={{ fontSize: "24px", fontWeight: 300, color: "#111111", fontFamily: "'Playfair Display', serif" }}>{r.label}</div>
+            <div style={{ fontSize: "24px", fontWeight: 300, color: "#111111", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>{r.label}</div>
             <div style={{ fontSize: "12px", color: "#666", marginTop: "8px", letterSpacing: "1px" }}>{r.sub}</div>
           </button>
         ))}
@@ -3336,7 +3336,7 @@ function PhotographerList({ region, photographers, onSelect, onBack }) {
   return (
     <div>
       <BackButton onClick={onBack} label="Back" />
-      <p style={{ color: "#666", fontSize: "13px", letterSpacing: "2px", textTransform: "uppercase", margin: "24px 0 16px", textAlign: "center" }}>
+      <p style={{ color: "#666", fontSize: "13px", letterSpacing: "2px", textTransform: "uppercase", margin: "12px 0 16px", textAlign: "center" }}>
         {region === "jeju" ? "Jeju" : "Seoul"} Photographers
       </p>
       <div style={{ display: "flex", flexDirection: "column", gap: "8px", maxWidth: "480px", margin: "0 auto" }}>
@@ -3352,7 +3352,7 @@ function PhotographerList({ region, photographers, onSelect, onBack }) {
               left={
                 <>
                   <span style={{ color: "#555555", fontSize: "12px", fontWeight: 600 }}>{p.number}</span>
-                  <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Playfair Display', serif", fontWeight: 500 }}>
+                  <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 500 }}>
                     {p.name}
                   </span>
                 </>
@@ -3378,13 +3378,10 @@ function SubPhotographerList({ photographer, onSelect, onBack }) {
   return (
     <div>
       <BackButton onClick={onBack} label="Back" />
-      <div style={{ textAlign: "center", margin: "24px 0 24px" }}>
-        <h2 style={{ fontFamily: "'Playfair Display', serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
+      <div style={{ textAlign: "center", margin: "12px 0 16px" }}>
+        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
           {photographer.name}
         </h2>
-        <p style={{ margin: "4px 0 0", fontSize: "13px" }}>
-          <InstagramLink handle={photographer.instagram} />
-        </p>
       </div>
       <p style={{ color: "#666", fontSize: "13px", letterSpacing: "2px", textTransform: "uppercase", margin: "0 0 16px", textAlign: "center" }}>
         Select Director
@@ -3398,7 +3395,7 @@ function SubPhotographerList({ photographer, onSelect, onBack }) {
             left={
               <>
                 <span style={{ color: "#555555", fontSize: "12px", fontWeight: 600 }}>{sub.number}</span>
-                <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Playfair Display', serif", fontWeight: 500 }}>
+                <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 500 }}>
                   {sub.name}
                 </span>
               </>
@@ -3425,13 +3422,10 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
     <div>
       <BackButton onClick={onBack} label="Back" />
 
-      <div style={{ textAlign: "center", margin: "24px 0 32px" }}>
-        <h2 style={{ fontFamily: "'Playfair Display', serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
+      <div style={{ textAlign: "center", margin: "12px 0 16px" }}>
+        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
           {displayName}
         </h2>
-        <p style={{ margin: "4px 0 0", fontSize: "13px" }}>
-          <InstagramLink handle={photographer.instagram} />
-        </p>
       </div>
 
       {/* Package tabs */}
@@ -3442,9 +3436,9 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
             onClick={() => { setSelectedPkg(i); setExpandedAddon(null); }}
             style={{
               padding: "10px 20px",
-              background: i === selectedPkg ? "#111111" : "#fff",
-              color: i === selectedPkg ? "#fff" : "#111111",
-              border: "1px solid #111111",
+              background: i === selectedPkg ? "#1E5045" : "#fff",
+              color: i === selectedPkg ? "#fff" : "#1E5045",
+              border: "1px solid #1E5045",
               borderRadius: "2px",
               cursor: "pointer",
               fontSize: "13px",
@@ -3460,11 +3454,11 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
 
       {/* Package subtitle */}
       <div style={{ textAlign: "center", marginBottom: "32px" }}>
-        <p style={{ fontSize: "14px", color: "#555555", fontWeight: 500, margin: 0, letterSpacing: "0.5px" }}>{pkg.subtitle}</p>
+        <p style={{ fontSize: "14px", color: "#1E5045", fontWeight: 500, margin: 0, letterSpacing: "0.5px" }}>{pkg.subtitle}</p>
       </div>
 
       {/* Partners */}
-      <div style={{ background: "#fafafa", border: "1px solid #e0e0e0", borderRadius: "4px", padding: "20px 24px", marginBottom: "24px" }}>
+      <div style={{ background: "rgba(30, 80, 69, 0.06)", border: "1px solid #5E9485", borderRadius: "4px", padding: "20px 24px", marginBottom: "24px" }}>
         <p style={{ fontSize: "12px", color: "#666", letterSpacing: "2px", textTransform: "uppercase", margin: "0 0 12px" }}>Partners</p>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "12px" }}>
           {Object.entries(pkg.partners).map(([role, info]) => (
@@ -3484,27 +3478,27 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
       <div style={{ marginBottom: "24px" }}>
         <p style={{ fontSize: "12px", color: "#666", letterSpacing: "2px", textTransform: "uppercase", margin: "0 0 12px" }}>Package Inclusive</p>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: "6px" }}>
-          {pkg.inclusiveItems.filter(item => !item.startsWith("*Note:")).map((item) => (
+          {pkg.inclusiveItems.filter(item => !item.startsWith("Note:")).map((item) => (
             <div key={item} style={{ fontSize: "14px", color: "#111111", padding: "6px 0", display: "flex", alignItems: "flex-start", gap: "8px" }}>
               <span style={{ color: "#555555", flexShrink: 0 }}>✓</span>
               {item}
             </div>
           ))}
         </div>
-        {pkg.inclusiveItems.filter(item => item.startsWith("*Note:")).map((note) => (
-          <p key={note} style={{ fontSize: "12px", color: "#555", fontStyle: "italic", margin: "12px 0 0", padding: "8px 12px", borderLeft: "2px solid #e0e0e0" }}>
+        {pkg.inclusiveItems.filter(item => item.startsWith("Note:")).map((note) => (
+          <p key={note} style={{ fontSize: "12px", color: "#555", fontStyle: "italic", margin: "12px 0 0", padding: "8px 12px", borderLeft: "2px solid #5E9485" }}>
             {note}
           </p>
         ))}
         {pkg.inclusiveNotes && pkg.inclusiveNotes.map((note) => (
-          <p key={note} style={{ fontSize: "12px", color: "#555", fontStyle: "italic", margin: "12px 0 0", padding: "8px 12px", borderLeft: "2px solid #e0e0e0" }}>
+          <p key={note} style={{ fontSize: "12px", color: "#555", fontStyle: "italic", margin: "12px 0 0", padding: "8px 12px", borderLeft: "2px solid #5E9485" }}>
             {note}
           </p>
         ))}
       </div>
 
       {/* Photography Details */}
-      <div style={{ background: "#fafafa", border: "1px solid #e0e0e0", borderRadius: "4px", padding: "20px 24px", marginBottom: "24px" }}>
+      <div style={{ background: "rgba(30, 80, 69, 0.06)", border: "1px solid #5E9485", borderRadius: "4px", padding: "20px 24px", marginBottom: "24px" }}>
         <p style={{ fontSize: "12px", color: "#666", letterSpacing: "2px", textTransform: "uppercase", margin: "0 0 16px" }}>Photography Details</p>
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "12px 24px" }}>
           {[
@@ -3514,12 +3508,12 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
           ].map((d) => (
             <div key={d.label}>
               <div style={{ fontSize: "12px", color: "#666" }}>{d.label}</div>
-              <div style={{ fontSize: "18px", fontWeight: 400, color: "#111111", marginTop: "2px", fontFamily: "'Playfair Display', serif" }}>{d.value}</div>
+              <div style={{ fontSize: "16px", fontWeight: 400, color: "#111111", marginTop: "2px", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>{d.value}</div>
             </div>
           ))}
           <div>
             <div style={{ fontSize: "12px", color: "#666" }}>Retouched Photos</div>
-            <div style={{ fontSize: "18px", fontWeight: 400, color: "#111111", marginTop: "2px", fontFamily: "'Playfair Display', serif" }}>{pkg.retouched} photos</div>
+            <div style={{ fontSize: "16px", fontWeight: 400, color: "#111111", marginTop: "2px", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>{pkg.retouched} photos</div>
             <div style={{ fontSize: "12px", color: "#888", marginTop: "4px", lineHeight: "1.5", whiteSpace: "pre-line" }}>{pkg.retouchedDetail}</div>
           </div>
         </div>
@@ -3528,23 +3522,23 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
       {/* Pricing */}
       {pkg.priceNoSNS !== null ? (
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "12px", marginBottom: "24px" }}>
-          <div style={{ background: "#111111", borderRadius: "4px", padding: "16px", textAlign: "center" }}>
+          <div style={{ background: "#1E5045", borderRadius: "4px", padding: "16px", textAlign: "center" }}>
             <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.75)", letterSpacing: "1px", textTransform: "uppercase" }}><span style={{ fontSize: "14px", fontWeight: 700 }}>Discounted Price</span><br/>(With SNS Upload Consent)</div>
-            <div style={{ fontSize: "22px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Playfair Display', serif" }}>
+            <div style={{ fontSize: "16px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>
               USD {pkg.priceSNS.toLocaleString()}
             </div>
           </div>
-          <div style={{ background: "#fafafa", border: "1px solid #e0e0e0", borderRadius: "4px", padding: "16px", textAlign: "center" }}>
+          <div style={{ background: "rgba(30, 80, 69, 0.06)", border: "1px solid #5E9485", borderRadius: "4px", padding: "16px", textAlign: "center" }}>
             <div style={{ fontSize: "12px", color: "#666", letterSpacing: "1px", textTransform: "uppercase" }}><span style={{ fontSize: "14px", fontWeight: 700 }}>Regular Price</span><br/>(No SNS Upload Consent)</div>
-            <div style={{ fontSize: "22px", fontWeight: 400, color: "#111111", marginTop: "6px", fontFamily: "'Playfair Display', serif" }}>
+            <div style={{ fontSize: "16px", fontWeight: 400, color: "#111111", marginTop: "6px", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>
               USD {pkg.priceNoSNS.toLocaleString()}
             </div>
           </div>
         </div>
       ) : (
-        <div style={{ background: "#111111", borderRadius: "4px", padding: "16px", textAlign: "center", marginBottom: "24px" }}>
+        <div style={{ background: "#1E5045", borderRadius: "4px", padding: "16px", textAlign: "center", marginBottom: "24px" }}>
           <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.75)", letterSpacing: "1px", textTransform: "uppercase" }}>Package Price</div>
-          <div style={{ fontSize: "22px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Playfair Display', serif" }}>
+          <div style={{ fontSize: "16px", fontWeight: 400, color: "#fff", marginTop: "6px", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>
             USD {pkg.priceSNS.toLocaleString()}
           </div>
         </div>
@@ -3565,7 +3559,7 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
           {pkg.addons.map((addon, i) => (
             <div
               key={addon.name}
-              style={{ border: "1px solid #e0e0e0", borderRadius: "4px", overflow: "hidden" }}
+              style={{ border: "1px solid #5E9485", borderRadius: "4px", overflow: "hidden" }}
             >
               <button
                 onClick={() => setExpandedAddon(expandedAddon === i ? null : i)}
@@ -3587,7 +3581,7 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
                 </span>
               </button>
               {expandedAddon === i && (
-                <div style={{ padding: "0 16px 12px", fontSize: "13px", color: "#555", lineHeight: "1.6", background: "#fafafa" }}>
+                <div style={{ padding: "0 16px 12px", fontSize: "13px", color: "#555", lineHeight: "1.6", background: "rgba(30, 80, 69, 0.06)" }}>
                   <RenderDesc text={addon.desc} />
                 </div>
               )}
@@ -3600,7 +3594,7 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
       </div>
 
       {/* CTA */}
-      <div style={{ textAlign: "center", padding: "32px 0", borderTop: "1px solid #e0e0e0" }}>
+      <div style={{ textAlign: "center", padding: "32px 0", borderTop: "1px solid #5E9485" }}>
         <p style={{ fontSize: "14px", color: "#555", margin: "0 0 16px" }}>Ready to book or have questions?</p>
         <a
           href="https://wa.me/821062695990"
@@ -3609,7 +3603,7 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
           style={{
             display: "inline-block",
             padding: "14px 40px",
-            background: "#111111",
+            background: "#1E5045",
             color: "#fff",
             textDecoration: "none",
             borderRadius: "2px",
@@ -3670,7 +3664,7 @@ export default function App() {
 
   return (
     <div style={{
-      fontFamily: "'Inter', -apple-system, sans-serif",
+      fontFamily: "'Pretendard', -apple-system, sans-serif",
       maxWidth: "640px",
       margin: "0 auto",
       padding: "24px 20px",
@@ -3681,7 +3675,7 @@ export default function App() {
       {/* Header */}
       <div style={{ textAlign: "center", marginBottom: "16px" }}>
         <h1 style={{
-          fontFamily: "'Playfair Display', serif",
+          fontFamily: "'Pretendard', -apple-system, sans-serif",
           fontSize: "20px",
           fontWeight: 300,
           letterSpacing: "4px",
@@ -3712,22 +3706,22 @@ export default function App() {
                   width: "200px",
                   padding: "40px 24px",
                   background: "#fff",
-                  border: "1px solid #e0e0e0",
+                  border: "1px solid #5E9485",
                   borderRadius: "4px",
                   cursor: "pointer",
                   transition: "all 0.2s",
                   textAlign: "center",
                 }}
                 onMouseEnter={(e) => {
-                  e.currentTarget.style.borderColor = "#555555";
+                  e.currentTarget.style.borderColor = "#1E5045";
                   e.currentTarget.style.boxShadow = "0 4px 20px rgba(0,0,0,0.08)";
                 }}
                 onMouseLeave={(e) => {
-                  e.currentTarget.style.borderColor = "#e0e0e0";
+                  e.currentTarget.style.borderColor = "#5E9485";
                   e.currentTarget.style.boxShadow = "none";
                 }}
               >
-                <div style={{ fontSize: "28px", fontWeight: 300, color: "#111111", fontFamily: "'Playfair Display', serif" }}>{year}</div>
+                <div style={{ fontSize: "28px", fontWeight: 300, color: "#111111", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>{year}</div>
               </button>
             ))}
           </div>
@@ -3760,7 +3754,7 @@ export default function App() {
       )}
 
       {/* Footer */}
-      <div style={{ textAlign: "center", padding: "40px 0 16px", borderTop: "1px solid #e5e5e5", marginTop: "40px" }}>
+      <div style={{ textAlign: "center", padding: "40px 0 16px", borderTop: "1px solid #5E9485", marginTop: "40px" }}>
         <p style={{ fontSize: "12px", color: "#888", letterSpacing: "1px", margin: 0 }}>
           © 2026 Hype Pig Inc. All rights reserved.
         </p>
