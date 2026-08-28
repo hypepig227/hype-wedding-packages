@@ -770,7 +770,7 @@ const PHOTOGRAPHERS = {
         {
           id: "jeju-4-1",
           number: "#4-1",
-          name: "Solo (Photo Only)",
+          name: "Photo Only",
           instagram: "@rosemarry_snap",
           hasYearPricing: true,
           packages: [
@@ -991,7 +991,7 @@ const PHOTOGRAPHERS = {
         {
           id: "jeju-4-2",
           number: "#4-2",
-          name: "Photo + Cinema",
+          name: "Photo + Video",
           instagram: "@rosemarry_snap",
           hasYearPricing: true,
           packages: [
@@ -3304,8 +3304,8 @@ function RegionSelect({ onSelect, onBack }) {
             key={r.key}
             onClick={() => onSelect(r.key)}
             style={{
-              width: "200px",
-              padding: "40px 24px",
+              width: "160px",
+              padding: "24px 20px",
               background: "#fff",
               border: "1px solid #5E9485",
               borderRadius: "4px",
@@ -3322,7 +3322,7 @@ function RegionSelect({ onSelect, onBack }) {
               e.currentTarget.style.boxShadow = "none";
             }}
           >
-            <div style={{ fontSize: "24px", fontWeight: 300, color: "#111111", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>{r.label}</div>
+            <div style={{ fontSize: "20px", fontWeight: 300, color: "#111111", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>{r.label}</div>
             <div style={{ fontSize: "12px", color: "#666", marginTop: "8px", letterSpacing: "1px" }}>{r.sub}</div>
           </button>
         ))}
@@ -3379,7 +3379,7 @@ function SubPhotographerList({ photographer, onSelect, onBack }) {
     <div>
       <BackButton onClick={onBack} label="Back" />
       <div style={{ textAlign: "center", margin: "12px 0 16px" }}>
-        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
+        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "22px", color: "#111111", margin: 0 }}>
           {photographer.name}
         </h2>
       </div>
@@ -3423,7 +3423,7 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, selectedYe
       <BackButton onClick={onBack} label="Back" />
 
       <div style={{ textAlign: "center", margin: "12px 0 16px" }}>
-        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "28px", color: "#111111", margin: 0 }}>
+        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "22px", color: "#111111", margin: 0 }}>
           {displayName}
         </h2>
       </div>
@@ -3703,8 +3703,8 @@ export default function App() {
                 key={year}
                 onClick={() => setSelectedYear(year)}
                 style={{
-                  width: "200px",
-                  padding: "40px 24px",
+                  width: "160px",
+                  padding: "24px 20px",
                   background: "#fff",
                   border: "1px solid #5E9485",
                   borderRadius: "4px",
@@ -3721,7 +3721,7 @@ export default function App() {
                   e.currentTarget.style.boxShadow = "none";
                 }}
               >
-                <div style={{ fontSize: "28px", fontWeight: 300, color: "#111111", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>{year}</div>
+                <div style={{ fontSize: "20px", fontWeight: 300, color: "#111111", fontFamily: "'Pretendard', -apple-system, sans-serif" }}>{year}</div>
               </button>
             ))}
           </div>
