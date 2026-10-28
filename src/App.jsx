@@ -1323,8 +1323,8 @@ const PHOTOGRAPHERS = {
               shootingTime: "4 hours",
               locations: "3 outdoor venues",
               originalPhotos: "1,000+",
-              retouched: 35,
-              retouchedDetail: "Customer Selected: 35",
+              retouched: 20,
+              retouchedDetail: "Customer Selected: 20",
               priceSNS: 2795,
               priceNoSNS: null,
               addons: [
@@ -1345,8 +1345,8 @@ const PHOTOGRAPHERS = {
               shootingTime: "4 hours",
               locations: "3 outdoor venues",
               originalPhotos: "1,000+",
-              retouched: 35,
-              retouchedDetail: "Customer Selected: 35",
+              retouched: 20,
+              retouchedDetail: "Customer Selected: 20",
               priceSNS: 2650,
               priceNoSNS: null,
               addons: [
@@ -1375,8 +1375,8 @@ const PHOTOGRAPHERS = {
               shootingTime: "5 hours",
               locations: "4 outdoor venues",
               originalPhotos: "1,000+",
-              retouched: 35,
-              retouchedDetail: "Customer Selected: 35",
+              retouched: 30,
+              retouchedDetail: "Customer Selected: 30",
               priceSNS: 3005,
               priceNoSNS: null,
               addons: [
@@ -1397,8 +1397,8 @@ const PHOTOGRAPHERS = {
               shootingTime: "5 hours",
               locations: "4 outdoor venues",
               originalPhotos: "1,000+",
-              retouched: 35,
-              retouchedDetail: "Customer Selected: 35",
+              retouched: 30,
+              retouchedDetail: "Customer Selected: 30",
               priceSNS: 3075,
               priceNoSNS: null,
               addons: [
