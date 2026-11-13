@@ -212,8 +212,8 @@ const PHOTOGRAPHERS = {
           originalPhotos: "1,000+",
           retouched: 30,
           retouchedDetail: "Customer Selected: 30",
-          priceSNS: 2540,
-          priceNoSNS: 2635, krwSNS: 3747000, krwNoSNS: 3890000,
+          priceSNS: 2465,
+          priceNoSNS: 2550, krwSNS: 3633000, krwNoSNS: 3761000,
           addons: [
             { name: "4K Videography (Drone included)", price: 426, desc: "Weather permitting. 2 min 4K pre-wedding video + 10 sec drone clip (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: Original video footage NOT provided." },
             { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction photos + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
@@ -241,8 +241,8 @@ const PHOTOGRAPHERS = {
           originalPhotos: "1,000+",
           retouched: 30,
           retouchedDetail: "Customer Selected: 30",
-          priceSNS: 2610,
-          priceNoSNS: 2710, krwSNS: 3852000, krwNoSNS: 3995000,
+          priceSNS: 2535,
+          priceNoSNS: 2620, krwSNS: 3738000, krwNoSNS: 3867000,
           addons: [
             { name: "4K Videography (Drone included)", price: 426, desc: "Weather permitting. 2 min 4K pre-wedding video + 10 sec drone clip (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: Original video footage NOT provided." },
             { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction photos + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
@@ -270,8 +270,8 @@ const PHOTOGRAPHERS = {
           originalPhotos: "1,000+",
           retouched: 30,
           retouchedDetail: "Customer Selected: 30",
-          priceSNS: 2665,
-          priceNoSNS: 2760, krwSNS: 3931000, krwNoSNS: 4074000,
+          priceSNS: 2585,
+          priceNoSNS: 2675, krwSNS: 3817000, krwNoSNS: 3945000,
           addons: [
             { name: "4K Videography (Drone included)", price: 426, desc: "Weather permitting. 2 min 4K pre-wedding video + 10 sec drone clip (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: Original video footage NOT provided." },
             { name: "Film Photography (Drone included)", price: 426, desc: "Weather permitting. Includes color correction photos + 4K drone video approx. 20 sec (with BGM) + Portrait highlight video for SNS. Final video delivered within 6 weeks. Note: First 30 teams: FREE." },
@@ -658,7 +658,7 @@ const PHOTOGRAPHERS = {
           retouched: 20,
           retouchedDetail: "Customer Selected: 20 (Retouched + Color Correction)",
           priceSNS: 2535,
-          priceNoSNS: 2580, krwSNS: 3401000, krwNoSNS: 3459000,
+          priceNoSNS: 2580, krwSNS: 3741000, krwNoSNS: 3805000,
           addons: [
             { name: "Pre-Wedding 4K Cinematic Drone Shooting", price: 170, desc: "Weather permitting. 1-2 min landscape video (Full HD or 4K). Logo positioned at bottom. Original drone footage: USD 47." },
             { name: "Studio Photography Addition", price: 239, desc: "Studio Rental fee NOT included. 1 hr session before outdoor shooting. Additional 5 detailed retouched photos. Additional stylist, interpreter and transportation fees apply. Note: Props such as confetti must be prepared by the couple with advanced notification to Hype Wedding." },
@@ -1532,7 +1532,7 @@ const PHOTOGRAPHERS = {
           inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "2-3 sites (1-2 Outdoor + 1 Indoor, or 2-3 Outdoor only)", originalPhotos: "1,000+", retouched: 30,
           retouchedDetail: "Customer Selected: 23 + Photographer Selected: 7",
-          priceSNS: 2925, priceNoSNS: 3020, krwSNS: 4318000, krwNoSNS: 4461000,
+          priceSNS: 2820, priceNoSNS: 2905, krwSNS: 4160000, krwNoSNS: 4289000,
           addons: [
             { name: "4K Videography (Younangman)", price: 657, desc: "4K cinematic highlight film approx. 3 min. No time limit, accompanies entire photoshoot. Portrait SNS video: USD 41 (30 sec). Original footage: USD 41 (20 min). Express Retouching: USD 124." },
             { name: "Studio Photography Addition", price: null, desc: "Studio rental fee charged separately. Studio list provided upon request. Additional stylist/interpreter/transport fees apply." },
@@ -1544,7 +1544,7 @@ const PHOTOGRAPHERS = {
       id: "seoul-3", number: "#3", name: "De.riz", instagram: "@de.riz_",
       packages: [
         {
-          name: "Package A",
+          name: "3 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "De.riz", instagram: "@de.riz_" },
@@ -1565,7 +1565,7 @@ const PHOTOGRAPHERS = {
           ],
         },
         {
-          name: "Package B",
+          name: "5 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "De.riz", instagram: "@de.riz_" },
@@ -1574,10 +1574,10 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 30,
           retouchedDetail: "Customer Selected: 30. Up to 3 outfits.",
-          priceSNS: 2740, priceNoSNS: 2820, krwSNS: 4046000, krwNoSNS: 4160000,
+          priceSNS: 2635, priceNoSNS: 2715, krwSNS: 3889000, krwNoSNS: 4003000,
           addons: [
             { name: "Additional 1-Hour", price: 100, desc: "Additional stylist/interpreter/transport fees apply." },
             { name: "Studio Rental", price: null, desc: "Price varies by studio; booked after consultation." },
@@ -1591,7 +1591,7 @@ const PHOTOGRAPHERS = {
       id: "seoul-4", number: "#4", name: "Novus", instagram: "@novus.moment",
       packages: [
         {
-          name: "Package A",
+          name: "3 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Novus", instagram: "@novus.moment" },
@@ -1607,7 +1607,7 @@ const PHOTOGRAPHERS = {
           addons: [],
         },
         {
-          name: "Package B",
+          name: "6 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Novus", instagram: "@novus.moment" },
@@ -1616,10 +1616,10 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon Seoul", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "6 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 25,
           retouchedDetail: "Up to 3 outfits.\nSNS consent: +5 retouched photos (30 total)",
-          priceSNS: 2435, priceNoSNS: null, krwSNS: 3594000,
+          priceSNS: 2680, priceNoSNS: null, krwSNS: 3951000,
           addons: [],
         },
       ],
@@ -1637,10 +1637,10 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session (1 Photographer)","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session (1 Photographer)","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4.5 hours", locations: "1 Indoor Studio + 1 Outdoor Site (Noeul Park)", originalPhotos: "All Original", retouched: 20,
           retouchedDetail: "Customer Selected: 20",
-          priceSNS: 2710, priceNoSNS: null, krwSNS: 3996000,
+          priceSNS: 2600, priceNoSNS: null, krwSNS: 3839000,
           addons: [
             { name: "Additional Shooting Time", price: null, desc: "Night shooting (after sunset): USD 85 per 30 min. Daytime shooting (before sunset): USD 60 per 30 min." },
             { name: "Express Retouching Service", price: 125, desc: "10 photos delivered within 10 days from photo selection date." },
@@ -1657,10 +1657,10 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography & Videography Session (2 Photographers)","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Approx. 2 Min Video","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography & Videography Session (2 Photographers)","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Approx. 2 Min Video","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4.5 hours", locations: "1 Indoor Studio + 1 Outdoor Site (Noeul Park)", originalPhotos: "All Original", retouched: 25,
           retouchedDetail: "Customer Selected: 25",
-          priceSNS: 3055, priceNoSNS: null, krwSNS: 4511000,
+          priceSNS: 2950, priceNoSNS: null, krwSNS: 4354000,
           addons: [
             { name: "Additional Shooting Time", price: null, desc: "Night shooting (after sunset): USD 85 per 30 min. Daytime shooting (before sunset): USD 60 per 30 min." },
             { name: "Express Retouching Service", price: 125, desc: "10 photos delivered within 10 days from photo selection date." },
@@ -1673,7 +1673,7 @@ const PHOTOGRAPHERS = {
       id: "seoul-6", number: "#6", name: "Seol in Seoul", instagram: "@seolinseoul_",
       packages: [
         {
-          name: "Package A",
+          name: "3 Hours",
           subtitle: "",
           
           partners: {
@@ -1698,7 +1698,7 @@ const PHOTOGRAPHERS = {
           ],
         },
         {
-          name: "Package B",
+          name: "5 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Seol in Seoul", instagram: "@seolinseoul_" },
@@ -1707,7 +1707,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites (Day+Sunset+Night)", originalPhotos: "1,000+", retouched: 45,
           retouchedDetail: "Customer Selected: 45. Up to 3 outfits.",
           priceSNS: 2740, priceNoSNS: null, krwSNS: 4046000,
@@ -1728,7 +1728,7 @@ const PHOTOGRAPHERS = {
       id: "seoul-7", number: "#7", name: "Youin Seoul", instagram: "@youin.seoul",
       packages: [
         {
-          name: "Package A",
+          name: "3 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Youin Seoul", instagram: "@youin.seoul" },
@@ -1744,7 +1744,7 @@ const PHOTOGRAPHERS = {
           addons: [],
         },
         {
-          name: "Package B",
+          name: "5 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Youin Seoul", instagram: "@youin.seoul" },
@@ -1753,10 +1753,10 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon Seoul", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "5 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 30,
           retouchedDetail: "Up to 3 outfits.",
-          priceSNS: 2850, priceNoSNS: null, krwSNS: 4203000,
+          priceSNS: 2740, priceNoSNS: null, krwSNS: 4046000,
           addons: [],
         },
       ],
@@ -1765,7 +1765,7 @@ const PHOTOGRAPHERS = {
       id: "seoul-8", number: "#8", name: "Nakwon", instagram: "@nakwon.snap",
       packages: [
         {
-          name: "Package A",
+          name: "4 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Nakwon", instagram: "@nakwon.snap" },
@@ -1774,14 +1774,14 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon Seoul", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "2 sites", originalPhotos: "1,000", retouched: 20,
           retouchedDetail: "",
           priceSNS: 2550, priceNoSNS: 2590, krwSNS: 3759000, krwNoSNS: 3823000,
           addons: [],
         },
         {
-          name: "Package B",
+          name: "6 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Nakwon", instagram: "@nakwon.snap" },
@@ -1790,10 +1790,10 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon Seoul", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "6 hours", locations: "3 sites", originalPhotos: "2,000", retouched: 30,
           retouchedDetail: "Up to 4 outfits.",
-          priceSNS: 2985, priceNoSNS: 3030, krwSNS: 4406000, krwNoSNS: 4470000,
+          priceSNS: 2880, priceNoSNS: 2920, krwSNS: 4249000, krwNoSNS: 4313000,
           addons: [],
         },
       ],
@@ -1802,7 +1802,7 @@ const PHOTOGRAPHERS = {
       id: "seoul-9", number: "#9", name: "Eo.ways", instagram: "@eo.ways",
       packages: [
         {
-          name: "Package A",
+          name: "3 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Eo.ways", instagram: "@eo.ways" },
@@ -1818,7 +1818,7 @@ const PHOTOGRAPHERS = {
           addons: [],
         },
         {
-          name: "Package B",
+          name: "4-5 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Eo.ways", instagram: "@eo.ways" },
@@ -1827,10 +1827,10 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4-5 hours", locations: "3 sites", originalPhotos: "1,000+", retouched: 40,
           retouchedDetail: "Customer Selected: 40",
-          priceSNS: 2485, priceNoSNS: null, krwSNS: 3662000,
+          priceSNS: 2380, priceNoSNS: null, krwSNS: 3505000,
           addons: [],
         },
       ],
@@ -1839,7 +1839,7 @@ const PHOTOGRAPHERS = {
       id: "seoul-10", number: "#10", name: "Kiss and Smoking", instagram: "@kiss_and.smoking",
       packages: [
         {
-          name: "Package A",
+          name: "4 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Kiss and Smoking", instagram: "@kiss_and.smoking" },
@@ -1848,7 +1848,7 @@ const PHOTOGRAPHERS = {
             suit: { name: "K Salon", instagram: "@ksalon_seoul" },
             bouquet: { name: "Uy.oung", instagram: "@uy.oung" },
           },
-          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","2 Suits (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
+          inclusiveItems: ["Photography Session","Hair & Makeup for Bride and Groom","2 Dresses + 1 Pair of Heels","1 Suit (Shirt and Shoes NOT included)","Accessories (Veil, Hair acc)","Stylist (On Shoot Day)","1 Fresh Flower Bouquet + 1 Boutonniere","Interpreter (On Shoot Day)","Private Van with Driver (On Shoot Day)"],
           shootingTime: "4 hours", locations: "2 sites", originalPhotos: "500+", retouched: 10,
           retouchedDetail: "Customer Selected: 10. Up to 2 outfits.",
           priceSNS: 2290, priceNoSNS: null, krwSNS: 3374000,
@@ -1860,7 +1860,7 @@ const PHOTOGRAPHERS = {
           ],
         },
         {
-          name: "Package B",
+          name: "7 Hours",
           subtitle: "",
           partners: {
             photographer: { name: "Kiss and Smoking", instagram: "@kiss_and.smoking" },
