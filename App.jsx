@@ -1891,6 +1891,7 @@ const PHOTOGRAPHERS = {
 const RATES = { KRW: 1350, SGD: null, HKD: null };
 const CURRENCIES = ["USD", "KRW", "SGD", "HKD"].filter((c) => c === "USD" || RATES[c]);
 const ceilTo = (v, step) => Math.ceil(v / step) * step;
+const CURRENCY_LABEL = { USD: "USD (VAT Free)", KRW: "KRW (VAT Incl.)", SGD: "SGD", HKD: "HKD" };
 
 function pkgPrice(pkg, kind, cur) {
   const usd = kind === "sns" ? pkg.priceSNS : pkg.priceNoSNS;
@@ -1926,8 +1927,9 @@ function CurrencyToggle({ currency, onChange }) {
           key={c}
           onClick={() => onChange(c)}
           style={{
-            padding: "6px 14px",
+            padding: "7px 14px",
             fontSize: "11px",
+            whiteSpace: "nowrap",
             letterSpacing: "1px",
             fontWeight: 500,
             border: "none",
@@ -1937,7 +1939,7 @@ function CurrencyToggle({ currency, onChange }) {
             fontFamily: "'Pretendard', -apple-system, sans-serif",
           }}
         >
-          {c}
+          {CURRENCY_LABEL[c]}
         </button>
       ))}
     </div>
