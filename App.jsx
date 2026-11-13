@@ -1628,7 +1628,7 @@ const PHOTOGRAPHERS = {
       id: "seoul-5", number: "#5", name: "Muhwagwa Wedding", instagram: "@muhwagwa_wedding",
       packages: [
         {
-          name: "Package A",
+          name: "Photo Only",
           subtitle: "",
           partners: {
             photographer: { name: "Muhwagwa", instagram: "@muhwagwa_wedding" },
@@ -1648,7 +1648,7 @@ const PHOTOGRAPHERS = {
           ],
         },
         {
-          name: "Package B",
+          name: "Photo + Video",
           subtitle: "",
           partners: {
             photographer: { name: "Muhwagwa", instagram: "@muhwagwa_wedding" },
