@@ -1885,6 +1885,51 @@ const PHOTOGRAPHERS = {
   ],
 };
 
+/* Promotion banner */
+// Set show: false to hide. endDate (YYYY-MM-DD, Korea time) hides it automatically after that day; null = no auto-hide.
+const PROMO = {
+  show: true,
+  title: "BLACK FRIDAY SALE",
+  period: "NOV 18 - NOV 30",
+  message: "All prices below already include our Black Friday discount.",
+  endDate: "2026-11-30",
+};
+
+function PromoBanner() {
+  if (!PROMO.show) return null;
+  let daysLeft = null;
+  if (PROMO.endDate) {
+    const end = new Date(PROMO.endDate + "T23:59:59+09:00");
+    const diff = end.getTime() - Date.now();
+    if (diff < 0) return null;
+    daysLeft = Math.floor(diff / 86400000);
+  }
+  return (
+    <div style={{
+      margin: "16px auto 0",
+      maxWidth: "420px",
+      borderRadius: "10px",
+      padding: "10px 14px",
+      textAlign: "center",
+      background: "#111111",
+      border: "1px solid #111111",
+    }}>
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "8px", flexWrap: "wrap" }}>
+        <span style={{ fontSize: "12px", fontWeight: 700, letterSpacing: "2px", color: "#fff" }}>BLACK FRIDAY</span>
+        <span style={{ fontSize: "11px", letterSpacing: "1px", color: "rgba(255,255,255,0.65)" }}>{PROMO.period}</span>
+        {daysLeft !== null && (
+          <span style={{ background: "#fff", color: "#111", borderRadius: "999px", padding: "1px 8px", fontSize: "10px", fontWeight: 600, letterSpacing: "0.5px" }}>
+            {daysLeft === 0 ? "LAST DAY" : `D-${daysLeft}`}
+          </span>
+        )}
+      </div>
+      <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.8)", marginTop: "4px", lineHeight: 1.5 }}>
+        {PROMO.message}
+      </div>
+    </div>
+  );
+}
+
 /* Currency */
 // Rate per 1 USD, used for add-ons and for currencies without their own package prices.
 // Set SGD / HKD to a number to show their buttons.
@@ -2453,6 +2498,7 @@ export default function App() {
           Package & Rate
         </p>
         <CurrencyToggle currency={currency} onChange={setCurrency} />
+        <PromoBanner />
       </div>
 
       {/* Content */}
