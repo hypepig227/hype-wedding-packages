@@ -2024,6 +2024,7 @@ function RenderDesc({ text }) {
 }
 
 function BackButton({ onClick, label }) {
+  if (!onClick) return null;
   return (
     <button
       onClick={onClick}
@@ -2428,10 +2429,31 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, currency }
   );
 }
 
+/* Direct link: ?p=jeju-1 shows only that photographer (or ?p=jeju-1-2 for one sub-photographer) */
+function findLinkTarget() {
+  try {
+    const id = new URLSearchParams(window.location.search).get("p");
+    if (!id) return null;
+    for (const r of ["jeju", "seoul"]) {
+      for (const p of PHOTOGRAPHERS[r]) {
+        if (p.id === id) return { region: r, photographer: p, sub: p.subPhotographers ? null : p, lockSub: !p.subPhotographers };
+        if (p.subPhotographers) {
+          for (const s of p.subPhotographers) {
+            if (s.id === id) return { region: r, photographer: p, sub: s, lockSub: true };
+          }
+        }
+      }
+    }
+  } catch (e) {}
+  return null;
+}
+const LINK_TARGET = findLinkTarget();
+
 export default function App() {
-  const [region, setRegion] = useState(null);
-  const [photographer, setPhotographer] = useState(null);
-  const [subPhotographer, setSubPhotographer] = useState(null);
+  const locked = LINK_TARGET !== null;
+  const [region, setRegion] = useState(locked ? LINK_TARGET.region : null);
+  const [photographer, setPhotographer] = useState(locked ? LINK_TARGET.photographer : null);
+  const [subPhotographer, setSubPhotographer] = useState(locked ? LINK_TARGET.sub : null);
   const [currency, setCurrency] = useState(() => {
     try {
       const q = new URLSearchParams(window.location.search).get("currency");
@@ -2515,14 +2537,14 @@ export default function App() {
         <SubPhotographerList
           photographer={photographer}
           onSelect={(s) => { setSubPhotographer(s); window.scrollTo(0, 0); }}
-          onBack={() => setPhotographer(null)}
+          onBack={locked ? null : () => setPhotographer(null)}
         />
       )}
       {showPackages && (
         <PackageDetail
           photographer={subPhotographer}
           parentName={photographer.subPhotographers ? photographer.name : null}
-          onBack={handleBack}
+          onBack={locked && LINK_TARGET.lockSub ? null : handleBack}
           backLabel={photographer.subPhotographers ? photographer.name : "Photographers"}
           currency={currency}
         />
