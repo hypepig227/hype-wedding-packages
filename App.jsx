@@ -2145,7 +2145,7 @@ function PhotographerList({ region, photographers, onSelect, onBack }) {
               disabled={!available}
               left={
                 <>
-                  <span style={{ color: "#555555", fontSize: "12px", fontWeight: 400 }}>{p.number}</span>
+                  <span style={{ color: "#555555", fontSize: "12px", fontWeight: 400 }}>{codeOf(p.id)}</span>
                   <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400 }}>
                     {p.name}
                   </span>
@@ -2154,7 +2154,7 @@ function PhotographerList({ region, photographers, onSelect, onBack }) {
               right={
                 available ? (
                   <span style={{ color: "#555555", fontSize: "12px" }}>
-                    {hasSubs ? `${p.subPhotographers.length} directors ›` : `${p.packages.length} packages ›`}
+                    {hasSubs ? `${p.subPhotographers.length} directors ›` : `${p.packages.length} ${p.packages.length === 1 ? "package" : "packages"} ›`}
                   </span>
                 ) : (
                   <span style={{ color: "#999", fontSize: "12px" }}>Coming Soon</span>
@@ -2207,14 +2207,14 @@ function SubPhotographerList({ photographer, onSelect, onBack }) {
             disabled={false}
             left={
               <>
-                <span style={{ color: "#555555", fontSize: "12px", fontWeight: 400 }}>{sub.number}</span>
+                <span style={{ color: "#555555", fontSize: "12px", fontWeight: 400 }}>{codeOf(sub.id)}</span>
                 <span style={{ color: "#111111", fontSize: "16px", marginLeft: "12px", fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400 }}>
                   {sub.name}
                 </span>
               </>
             }
             right={
-              <span style={{ color: "#555555", fontSize: "12px" }}>{sub.packages.length} packages ›</span>
+              <span style={{ color: "#555555", fontSize: "12px" }}>{sub.packages.length} {sub.packages.length === 1 ? "package" : "packages"} ›</span>
             }
           />
         ))}
@@ -2241,21 +2241,22 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, currency }
       </div>
 
       {/* Package tabs */}
-      <div style={{ display: "flex", gap: "8px", justifyContent: "center", flexWrap: "wrap", marginBottom: "32px" }}>
+      <div style={{ display: "flex", gap: "5px", justifyContent: "center", flexWrap: "wrap", marginBottom: "24px" }}>
         {currentPackages.map((p, i) => (
           <button
             key={p.name}
             onClick={() => { setSelectedPkg(i); setExpandedAddon(null); }}
             style={{
-              padding: "10px 20px",
+              padding: "6px 9px",
+              whiteSpace: "nowrap",
               background: i === selectedPkg ? "#1E5045" : "#fff",
               color: i === selectedPkg ? "#fff" : "#1E5045",
               border: "1px solid #1E5045",
               borderRadius: "2px",
               cursor: "pointer",
-              fontSize: "13px",
+              fontSize: "11px",
               fontWeight: 500,
-              letterSpacing: "0.5px",
+              letterSpacing: "0.3px",
               transition: "all 0.2s",
             }}
           >
