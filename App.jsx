@@ -2168,13 +2168,32 @@ function PhotographerList({ region, photographers, onSelect, onBack }) {
   );
 }
 
+function codeOf(id) {
+  if (!id) return null;
+  const [r, n, sub] = id.split("-");
+  const label = (r === "jeju" ? "Jeju" : "Seoul") + " " + String(n).padStart(2, "0");
+  return sub ? `${label}-${sub}` : label;
+}
+
+function CodeTag({ id }) {
+  const c = codeOf(id);
+  if (!c) return null;
+  return (
+    <div style={{ marginBottom: "8px" }}>
+      <span style={{ display: "inline-block", padding: "3px 12px", border: "1px solid #1E5045", borderRadius: "999px", fontSize: "13px", letterSpacing: "1.5px", color: "#1E5045", fontWeight: 500 }}>
+        {c.toUpperCase()}
+      </span>
+    </div>
+  );
+}
+
 function SubPhotographerList({ photographer, onSelect, onBack }) {
   return (
     <div>
       <BackButton onClick={onBack} label="Back" />
       <div style={{ textAlign: "center", margin: "12px 0 16px" }}>
-        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "22px", color: "#111111", margin: 0 }}>
-          {photographer.name}
+        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "17px", letterSpacing: "0.5px", color: "#111111", margin: 0 }}>
+          <CodeTag id={photographer.id} />{photographer.name}
         </h2>
       </div>
       <p style={{ color: "#666", fontSize: "13px", letterSpacing: "2px", textTransform: "uppercase", margin: "0 0 16px", textAlign: "center" }}>
@@ -2216,8 +2235,8 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, currency }
       <BackButton onClick={onBack} label="Back" />
 
       <div style={{ textAlign: "center", margin: "12px 0 16px" }}>
-        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "22px", color: "#111111", margin: 0 }}>
-          {displayName}
+        <h2 style={{ fontFamily: "'Pretendard', -apple-system, sans-serif", fontWeight: 400, fontSize: "17px", letterSpacing: "0.5px", color: "#111111", margin: 0 }}>
+          <CodeTag id={photographer.id} />{displayName}
         </h2>
       </div>
 
