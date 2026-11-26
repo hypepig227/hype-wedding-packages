@@ -2247,14 +2247,14 @@ function PackageDetail({ photographer, parentName, onBack, backLabel, currency }
             key={p.name}
             onClick={() => { setSelectedPkg(i); setExpandedAddon(null); }}
             style={{
-              padding: "6px 9px",
+              padding: "8px 8px",
               whiteSpace: "nowrap",
               background: i === selectedPkg ? "#1E5045" : "#fff",
               color: i === selectedPkg ? "#fff" : "#1E5045",
               border: "1px solid #1E5045",
               borderRadius: "2px",
               cursor: "pointer",
-              fontSize: "11px",
+              fontSize: "12px",
               fontWeight: 500,
               letterSpacing: "0.3px",
               transition: "all 0.2s",
